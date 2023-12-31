@@ -43,7 +43,7 @@ http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2479" tvg-logo="https://iptvxcdn.ml/echotv.png" tvg-name="Эхо ТВ",Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV FHD",RU TV HD
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV HD",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV HD",RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
