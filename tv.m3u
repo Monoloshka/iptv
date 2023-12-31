@@ -1,0 +1,57 @@
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml"
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/08bs0k1fkkp95js/ocko.png" tvg-name="Ocko",Ocko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/m1tb7j4j9rl8ggm/ocko-express.png" tvg-name="Ocko Expres music",Ocko Expres music
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/0inppyl5cf0wyb1/Ocko-Gold.png" tvg-name="Ocko Gold",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/6x3mp0362luxufe/Radio%20Van.png" tvg-name="Radio Van 103.0 FM (Ереван)",Radio Van 103.0 FM (Ереван)
+http://stream.radiovan.fm/stream/index.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-logo="https://dl.dropboxusercontent.com/s/3ivtpltvxap58nv/Red%20Bull%20TV.png" tvg-name="Red Bull TV HD",Red Bull TV HD
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="http://tvpro-online.ru/images/logo.png" tvg-name="TV PRO",TV PRO
+http://rtmp.tvpro-online.ru/hls/ch1.m3u8
+#EXTINF:-1 tvg-id="6750" tvg-logo="https://iptvxcdn.ml/gubernia-samara.png" tvg-name="Губерния Самара",Губерния Самара
+http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="6670" tvg-logo="https://iptvxcdn.ml/evrasia.png" tvg-name="Евразия Орск",Евразия Орск
+http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
+#EXTINF:-1 tvg-id="2570" tvg-logo="https://iptvxcdn.ml/ktk-kz.png" tvg-name="КТК",КТК
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="2475" tvg-logo="https://iptvxcdn.ml/kuraj.png" tvg-name="Курай",Курай
+http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1 tvg-id="3020" tvg-shift="4" tvg-logo="https://iptvxcdn.ml/mir-pl4.png" tvg-name="Мир +4",Мир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 tvg-id="2078" tvg-logo="https://iptvxcdn.ml/mir24.png" tvg-name="Мир 24",Мир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="1732" tvg-logo="https://iptvxcdn.ml/nadezhda.png" tvg-name="Надежда",Надежда
+http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 tvg-id="6025" tvg-logo="https://iptvxcdn.ml/nika-tv.png" tvg-name="Ника ТВ",Ника ТВ
+http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ntm" tvg-logo="https://iptvxcdn.ml/ntm.png" tvg-name="НТМ Мордовия",НТМ Мордовия
+http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="5390" tvg-logo="https://iptvxcdn.ml/1muz.png" tvg-name="Первый музыкальный HD",Первый музыкальный HD
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 tvg-id="743" tvg-logo="https://iptvxcdn.ml/rbk.png" tvg-name="РБК",РБК
+http://92.50.128.180/utv/1358/index.m3u8
+#EXTINF:-1 tvg-id="2975" tvg-logo="https://iptvxcdn.ml/rossia-24.png" tvg-name="Россия 24 HD",Россия 24 HD
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 tvg-id="187" tvg-logo="https://iptvxcdn.ml/kultura.png" tvg-name="Россия К",Россия К
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 tvg-id="salam" tvg-logo="https://iptvxcdn.ml/salam.png" tvg-name="Салям",Салям
+http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 tvg-id="sever" tvg-logo="https://iptvxcdn.ml/sever.png" tvg-name="Север",Север
+http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 tvg-id="5369" tvg-logo="https://dl.dropboxusercontent.com/s/5l49slarp20sjaf/Strana%20FM.png" tvg-name="Страна FM HD",Страна FM HD
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="ТРК Луч",ТРК Луч
+http://live.trk-luch.ru/hls/live_mid.m3u8
+#EXTINF:-1 tvg-id="2479" tvg-logo="https://iptvxcdn.ml/echotv.png" tvg-name="Эхо ТВ",Эхо ТВ
+http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV FHD",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV HD",RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV",RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
