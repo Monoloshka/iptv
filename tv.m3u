@@ -21,8 +21,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
 #EXTINF:-1 tvg-id="3020" tvg-shift="4" tvg-logo="https://iptvxcdn.ml/mir-pl4.png" tvg-name="Мир +4",Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="2078" tvg-logo="https://iptvxcdn.ml/mir24.png" tvg-name="Мир 24",Мир 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="1732" tvg-logo="https://iptvxcdn.ml/nadezhda.png" tvg-name="Надежда",Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 tvg-id="6025" tvg-logo="https://iptvxcdn.ml/nika-tv.png" tvg-name="Ника ТВ",Ника ТВ
@@ -43,8 +41,6 @@ http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
 #EXTINF:-1 tvg-id="5369" tvg-logo="https://dl.dropboxusercontent.com/s/5l49slarp20sjaf/Strana%20FM.png" tvg-name="Страна FM HD",Страна FM HD
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="ТРК Луч",ТРК Луч
-http://live.trk-luch.ru/hls/live_mid.m3u8
 #EXTINF:-1 tvg-id="2479" tvg-logo="https://iptvxcdn.ml/echotv.png" tvg-name="Эхо ТВ",Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://iptvxcdn.ml/rutv.png" tvg-name="RU TV FHD",RU TV HD
