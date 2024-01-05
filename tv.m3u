@@ -44,7 +44,7 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png" tvg-name="Ocko Expres music", Ocko Expres music
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png" tvg-name="Ocko Gold", Ocko Gold
-https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8s
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/radio-van.png" tvg-name="Radio Van", Radio Van
 http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png",Retro Music
