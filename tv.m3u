@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.it999.ru/epg2.xml"
 #EXTINF:-1 tvg-id="6039" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/redbull-tv.png" tvg-name="Red Bull TV", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-name="ТНТ", ТНТ
+https://edge02-ura.beetv.kz/bpk-token/2am@1l51ok3j3p1jvhyczsdpp4x3u0505wtk1fzw30ca/btv/SWM/TNT_HD_RUS/TNT_HD_RUS.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-pro.png" tvg-name="TV PRO", TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
 #EXTINF:-1 tvg-id="6750" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gubernia.png" tvg-name="Губерния", Губерния
