@@ -1,35 +1,1 @@
-#EXTM3U
-#EXTINF:-1,TV21
-https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
-#EXTINF:-1,Техно24
-https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
-#EXTINF:-1,TNT Music
-https://ucdn.beetv.kz/btv/live/hls/000000013.m3u8
-#EXTINF:-1,BBC World
-https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
-#EXTINF:-1,Cartoon Network
-https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
-#EXTINF:-1,Euronews
-https://ucdn.beetv.kz/btv/live/hls/000000025.m3u8
-#EXTINF:-1,Mezzo
-https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:-1,Hollywood
-https://ucdn.beetv.kz/btv/live/hls/000000031.m3u8
-#EXTINF:-1,NatGeo
-https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:-1,Nikelodeon
-https://ucdn.beetv.kz/btv/live/hls/000000036.m3u8
-#EXTINF:-1,RTVi
-https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
-#EXTINF:-1,Детский
-https://ucdn.beetv.kz/btv/live/hls/000000048.m3u8
-#EXTINF:-1,Детский мир
-https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
-#EXTINF:-1,Дом кино
-https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
-#EXTINF:-1,Здоровое ТВ
-https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8
-#EXTINF:-1,Россия Культура
-https://ucdn.beetv.kz/btv/live/hls/000000066.m3u8
-#EXTINF:-1,Муз ТВ
-https://ucdn.beetv.kz/btv/live/hls/000000073.m3u8
+#EXTM3U#EXTINF:-1,TV21https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8#EXTINF:-1,Техно24https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8#EXTINF:-1,TNT Musichttps://ucdn.beetv.kz/btv/live/hls/000000013.m3u8#EXTINF:-1,BBC Worldhttps://ucdn.beetv.kz/btv/live/hls/000000014.m3u8#EXTINF:-1,Cartoon Networkhttps://ucdn.beetv.kz/btv/live/hls/000000015.m3u8#EXTINF:-1,Euronewshttps://ucdn.beetv.kz/btv/live/hls/000000025.m3u8#EXTINF:-1,Mezzohttps://ucdn.beetv.kz/btv/live/hls/000000030.m3u8#EXTINF:-1,Hollywoodhttps://ucdn.beetv.kz/btv/live/hls/000000031.m3u8#EXTINF:-1,NatGeohttps://ucdn.beetv.kz/btv/live/hls/000000034.m3u8#EXTINF:-1,Nikelodeonhttps://ucdn.beetv.kz/btv/live/hls/000000036.m3u8#EXTINF:-1,RTVihttps://ucdn.beetv.kz/btv/live/hls/000000039.m3u8#EXTINF:-1,Детскийhttps://ucdn.beetv.kz/btv/live/hls/000000048.m3u8#EXTINF:-1,Детский мирhttps://ucdn.beetv.kz/btv/live/hls/000000049.m3u8#EXTINF:-1,Дом киноhttps://ucdn.beetv.kz/btv/live/hls/000000050.m3u8#EXTINF:-1,Здоровое ТВhttps://ucdn.beetv.kz/btv/live/hls/000000057.m3u8#EXTINF:-1,Россия Культураhttps://ucdn.beetv.kz/btv/live/hls/000000066.m3u8#EXTINF:-1,Муз ТВhttps://ucdn.beetv.kz/btv/live/hls/000000073.m3u8#EXTINF:-1,НСТhttps://ucdn.beetv.kz/btv/live/hls/000000078.m3u8#EXTINF:-1,НТВ Мирhttps://ucdn.beetv.kz/btv/live/hls/000000079.m3u8#EXTINF:-1,РБКhttps://ucdn.beetv.kz/btv/live/hls/000000091.m3u8#EXTINF:-1,ТВ Центрhttps://ucdn.beetv.kz/btv/live/hls/000000112.m3u8#EXTINF:-1,Фениксhttps://ucdn.beetv.kz/btv/live/hls/000000112.m3u8#EXTINF:-1,Sci-Fihttps://ucdn.beetv.kz/btv/live/hls/000000134.m3u8#EXTINF:-1,Viasat Sporthttps://ucdn.beetv.kz/btv/live/hls/000000135.m3u8#EXTINF:-1,Дом Животныеhttps://ucdn.beetv.kz/btv/live/hls/000000146.m3u8#EXTINF:-1,Психологияhttps://ucdn.beetv.kz/btv/live/hls/000000147.m3u8#EXTINF:-1,Еврокиноhttps://ucdn.beetv.kz/btv/live/hls/000000152.m3u8#EXTINF:-1,Boomeranghttps://ucdn.beetv.kz/btv/live/hls/000000160.m3u8#EXTINF:-1,Tijihttps://ucdn.beetv.kz/btv/live/hls/000000174.m3u8#EXTINF:-1,Вопросы-ответыhttps://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
