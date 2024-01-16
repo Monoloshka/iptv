@@ -50,4 +50,10 @@ http://stream.radiovan.fm/stream/index.m3u8
 #EXTINF:-1 tvg-id="retro-music-cz" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png",Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="2277" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-name="RU TV HD", RU TV HD
-https://raw.githubusercontent.com/Monoloshka/iptv/main/rutv.m3u8
+https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-name="RU TV HD", RU TV HD
+https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-name="RU TV", RU TV
+https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
+#EXTINF:-1 tvg-id="2277" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-name="RU TV", RU TV
+https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
