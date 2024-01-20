@@ -3,37 +3,37 @@
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-pro.png", TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gubernia.png", Губерния
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gubernia.png" tvg-id="gubernia-samara", Губерния
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrasia.png", Евразия
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrasia.png" tvg-id="evrasia", Евразия
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png", КТК
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png" tvg-id="ktk-kz", КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kurai.png", Курай
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kurai.png" tvg-id="kuraj", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" shift="4", Мир +4
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" shift="4" tvg-id="mir-pl4", Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nadezhda.png", Надежда
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nadezhda.png" tvg-id="nadezhda", Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nika-tv.png", Ника ТВ
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nika-tv.png" tvg-id="nika-tv", Ника ТВ
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntm.png", НТМ
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntm.png" tvg-id="ntm", НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png", РБК
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png" tvg-id="rbk", РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/izvestia.png", Известия
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/izvestia.png" tvg-id="izvestia", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tri-angela.png", Три Ангела
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tri-angela.png" tvg-id="tri-angela", Три Ангела
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salam.png", Салям
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salam.png" tvg-id="salam", Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sever.png", Север
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sever.png" tvg-id="sever", Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/s1.png", С1
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/s1.png" tvg-id="s1-surgut", С1
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/echo-tv.png", Эхо ТВ
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/echo-tv.png" tvg-id="echotv", Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/strana-fm.png", Страна FM
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/strana-fm.png" tvg-id="radio-strana-fm-tv", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png", First Music Channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8
@@ -47,13 +47,13 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/radio-van.png", Radio Van
 http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png", Retro Music
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png" tvg-id="retro-music-cz", Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png", RU TV HD
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png", RU TV HD
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png", RU TV
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png", RU TV
+#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
