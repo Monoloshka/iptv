@@ -343,7 +343,7 @@ https://ucdn.beetv.kz/btv/live/hls/000003747.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000003748.m3u8
 #EXTINF:0 type="stream" channelId="4025" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nasha-tema.png" tvg-id="nasha-tema", Наша тема
 https://ucdn.beetv.kz/btv/live/hls/000003785.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoman.png", Киноман
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoman.png" tvg-id="kinosat", Киноман
 https://ucdn.beetv.kz/btv/live/hls/000003871.m3u8
 #EXTINF:0 type="stream" channelId="1728" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts-kids.png" tvg-id="sts-kids-hd", СТС Kids
 https://ucdn.beetv.kz/btv/live/hls/000003892.m3u8
