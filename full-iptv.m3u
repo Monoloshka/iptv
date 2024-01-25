@@ -261,7 +261,7 @@ https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000002348.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/euronews.png" tvg-id="euronews-en", Euronews English
 https://ucdn.beetv.kz/btv/live/hls/000002455.m3u8
-#EXTINF:0 type="stream" channelId="11" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ren-tv.png" tvg-id="rentv-int", Рен ТВ
+#EXTINF:0 type="stream" channelId="11" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ren-tv.png" tvg-id="rentv-int", Рен ТВ international
 https://ucdn.beetv.kz/btv/live/hls/000002472.m3u8
 #EXTINF:0 type="stream" channelId="82" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport1.png" tvg-id="eurosport1", Eurosport 1
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
