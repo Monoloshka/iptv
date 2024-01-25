@@ -461,7 +461,7 @@ https://ucdn.beetv.kz/btv/live/hls/000008487.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semejnoe-kino.png" tvg-id="semejnoe-kino-kz", Семейное кино
 https://ucdn.beetv.kz/btv/live/hls/000008489.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png", Кино боевик
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png" tvg-id="kinoboevik-kz", Кино боевик
 https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
 https://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
