@@ -107,7 +107,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000291.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
 #EXTINF:0 type="stream" channelId="312" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir-seriala.png" tvg-id="mir-seriala", Мир сериала
 https://ucdn.beetv.kz/btv/live/hls/000000319.m3u8
-#EXTINF:0 type="stream" channelId="2184" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mcm.png", MCM
+#EXTINF:0 type="stream" channelId="2184" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mcm.png" tvg-id="mcm-top", MCM Top
 https://ucdn.beetv.kz/btv/live/hls/000000327.m3u8
 #EXTINF:0 type="stream" channelId="391" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/galaxy.png" tvg-id="galaxy-tv", Тайны галактики
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
