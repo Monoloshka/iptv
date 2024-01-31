@@ -119,7 +119,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000360.m3u8
 #EXTINF:0 type="stream" channelId="1485" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnv-planeta.png" tvg-id="tnv-planeta", ТНВ планета
 https://ucdn.beetv.kz/btv/live/hls/000000418.m3u8
-#EXTINF:0 type="stream" channelId="806" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts.png" tvg-id="sts", СТС International
+#EXTINF:0 type="stream" channelId="806" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts.png" tvg-id="sts-int", СТС International
 https://ucdn.beetv.kz/btv/live/hls/000000428.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fashion-lifestyle.png" tvg-id="fashion-one", Fashion & Lifestyle
 https://ucdn.beetv.kz/btv/live/hls/000000439.m3u8
@@ -417,7 +417,7 @@ https://ucdn.beetv.kz/btv/live/hls/000006899.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000006969.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/insport.png" tvg-id="insport-kz", Insport
 https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setana Sports 1 KZ
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1 KZ
 https://ucdn.beetv.kz/btv/live/hls/000006998.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turkistan.png" tvg-id="turkistan", Туркестан
 https://ucdn.beetv.kz/btv/live/hls/000007248.m3u8
