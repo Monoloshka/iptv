@@ -363,9 +363,9 @@ https://ucdn.beetv.kz/btv/live/hls/000004365.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000004375.m3u8
 #EXTINF:0 type="stream" channelId="4517" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/flixsnip.png" tvg-id="flixsnip", FlixSnip
 https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
-#EXTINF:0 type="stream" channelId="178" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/foxlife.png" tvg-id="foxlife", Fox Life
+#EXTINF:0 type="stream" channelId="178" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/foxlife.png" tvg-id="foxlife", Fx Life
 https://ucdn.beetv.kz/btv/live/hls/000004471.m3u8
-#EXTINF:0 type="stream" channelId="177" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fox.png" tvg-id="fox", FOX
+#EXTINF:0 type="stream" channelId="177" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fox.png" tvg-id="fox", FX
 https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
 #EXTINF:0 type="stream" channelId="164" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo-wild.png" tvg-id="nat-geo-wild", Nat Geo Wild
 https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
