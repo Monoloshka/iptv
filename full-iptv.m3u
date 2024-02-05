@@ -163,7 +163,7 @@ https://ucdn.beetv.kz/btv/live/hls/000000710.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
 #EXTINF:0 type="stream" channelId="1945" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzzone.png" tvg-id="muzzone", Muzzone
 https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
-#EXTINF:0 type="stream" channelId="264" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" shift="1" tvg-id="rtr-planeta-eu", РТР-Планета (Россия)
+#EXTINF:0 type="stream" channelId="264" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="1" tvg-id="rtr-planeta-eu", РТР-Планета (Россия)
 https://ucdn.beetv.kz/btv/live/hls/000000812.m3u8
 #EXTINF:0 type="stream" channelId="1282" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/auto-24.png" tvg-id="avto24", Авто 24
 https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
