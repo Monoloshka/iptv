@@ -409,6 +409,8 @@ https://ucdn.beetv.kz/btv/live/hls/000006116.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000006365.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-nature.png" tvg-id="viasat-nature", Viju nature
 https://ucdn.beetv.kz/btv/live/hls/000006482.m3u8
+#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zal-suda.png" tvg-id="zal-suda", Зал суда
+https://ucdn.beetv.kz/btv/live/hls/000006638.m3u8
 #EXTINF:0 type="stream" channelId="492" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dacha.png" tvg-id="dacha", Дача
 https://ucdn.beetv.kz/btv/live/hls/000006646.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2 KZ
