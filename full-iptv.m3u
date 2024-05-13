@@ -411,6 +411,8 @@ https://ucdn.beetv.kz/btv/live/hls/000006365.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000006482.m3u8
 #EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zal-suda.png" tvg-id="zal-suda", Зал суда
 https://ucdn.beetv.kz/btv/live/hls/000006638.m3u8
+#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gags-network.png" tvg-id="gags-network", Gags Network
+https://ucdn.beetv.kz/btv/live/hls/000006639.m3u8
 #EXTINF:0 type="stream" channelId="492" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dacha.png" tvg-id="dacha", Дача
 https://ucdn.beetv.kz/btv/live/hls/000006646.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2 KZ
@@ -468,6 +470,8 @@ https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
 https://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr. KZ
+https://ucdn.beetv.kz/btv/live/hls/000008615.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nowy-igrowoj.png" tvg-id="nowy-igrowoj", Новый игровой канал
 https://ucdn.beetv.kz/btv/live/hls/000008575.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-1.png", Q Live 1
 https://ucdn.beetv.kz/btv/live/hls/000008725.m3u8
@@ -477,7 +481,9 @@ https://ucdn.beetv.kz/btv/live/hls/000008726.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000008445.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-4.png", Q Live 4
 https://ucdn.beetv.kz/btv/live/hls/000008727.m3u8
-#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
+#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-3.png", Q Live 3
+https://10.15.1.178/btv/live/hls/000008614.m3u8
+#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/narod-vsio-vidit.png" tvg-id="narod-vsio-vidit", 	Народ Всё Видит
 https://ucdn.beetv.kz/btv/live/hls/000008848.m3u8
 #EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/redbull-tv.png", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
