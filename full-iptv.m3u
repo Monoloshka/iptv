@@ -1,551 +1,551 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Monoloshka/iptv/main/epgm.xml.gz"
-#EXTINF:0 type="stream" channelId="510" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
+#EXTINF:0 type="stream" channelId="510" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
 https://ucdn.beetv.kz/btv/live/hls/100006592.m3u8
-#EXTINF:0 type="stream" channelId="193" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
+#EXTINF:0 type="stream" channelId="193" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
 https://ucdn.beetv.kz/btv/live/hls/000000006.m3u8
-#EXTINF:0 type="stream" channelId="162" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/t24.png" tvg-id="texno-24", Т24
+#EXTINF:0 type="stream" channelId="162" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/t24.png" tvg-id="texno-24", Т24
 https://ucdn.beetv.kz/btv/live/hls/000000008.m3u8
-#EXTINF:0 type="stream" channelId="24" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt-music.png" tvg-id="tnt-music", ТНТ Music
+#EXTINF:0 type="stream" channelId="24" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt-music.png" tvg-id="tnt-music", ТНТ Music
 https://ucdn.beetv.kz/btv/live/hls/000000013.m3u8
-#EXTINF:0 type="stream" channelId="118" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bbc-news.png" tvg-id="bbc", BBC World News
+#EXTINF:0 type="stream" channelId="118" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bbc-news.png" tvg-id="bbc", BBC World News
 https://ucdn.beetv.kz/btv/live/hls/000000014.m3u8
-#EXTINF:0 type="stream" channelId="40" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoon-network.png" tvg-id="cartoon-network", Cartoon Network
+#EXTINF:0 type="stream" channelId="40" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoon-network.png" tvg-id="cartoon-network", Cartoon Network
 https://ucdn.beetv.kz/btv/live/hls/000000015.m3u8
-#EXTINF:0 type="stream" channelId="217" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/euronews.png" tvg-id="euronews", Euronews
+#EXTINF:0 type="stream" channelId="217" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/euronews.png" tvg-id="euronews", Euronews
 https://ucdn.beetv.kz/btv/live/hls/000000025.m3u8
-#EXTINF:0 type="stream" channelId="43" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mezzo.png" tvg-id="mezzo", Mezzo
+#EXTINF:0 type="stream" channelId="43" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mezzo.png" tvg-id="mezzo", Mezzo
 https://ucdn.beetv.kz/btv/live/hls/000000030.m3u8
-#EXTINF:0 type="stream" channelId="3919" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/hollywood.png" tvg-id="hollywood", Hollywood
+#EXTINF:0 type="stream" channelId="3919" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/hollywood.png" tvg-id="hollywood", Hollywood
 https://ucdn.beetv.kz/btv/live/hls/000000031.m3u8
-#EXTINF:0 type="stream" channelId="56" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo.png" tvg-id="national-geographic", National Geographic
+#EXTINF:0 type="stream" channelId="56" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo.png" tvg-id="national-geographic", National Geographic
 https://ucdn.beetv.kz/btv/live/hls/000000034.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nickelodeon.png" tvg-id="nickelodeon-ru", Nickelodeon KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nickelodeon.png" tvg-id="nickelodeon-ru", Nickelodeon KZ
 https://ucdn.beetv.kz/btv/live/hls/000000036.m3u8
-#EXTINF:0 type="stream" channelId="405" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rtvi.png" tvg-id="rtvi", RTVi
+#EXTINF:0 type="stream" channelId="405" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rtvi.png" tvg-id="rtvi", RTVi
 https://ucdn.beetv.kz/btv/live/hls/000000039.m3u8
-#EXTINF:0 type="stream" channelId="192" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/unikum.png" tvg-id="detsky", Уникум
+#EXTINF:0 type="stream" channelId="192" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/unikum.png" tvg-id="detsky", Уникум
 https://ucdn.beetv.kz/btv/live/hls/000000048.m3u8
-#EXTINF:0 type="stream" channelId="39" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/detskiy-mir.png" tvg-id="detsky-mir", Детский мир
+#EXTINF:0 type="stream" channelId="39" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/detskiy-mir.png" tvg-id="detsky-mir", Детский мир
 https://ucdn.beetv.kz/btv/live/hls/000000049.m3u8
-#EXTINF:0 type="stream" channelId="68" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino.png" tvg-id="domkino", Дом кино
+#EXTINF:0 type="stream" channelId="68" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino.png" tvg-id="domkino", Дом кино
 https://ucdn.beetv.kz/btv/live/hls/000000050.m3u8
-#EXTINF:0 type="stream" channelId="247" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zdorovoe-tv.png" tvg-id="zdorovoe-tv", Здоровое ТВ
+#EXTINF:0 type="stream" channelId="247" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zdorovoe-tv.png" tvg-id="zdorovoe-tv", Здоровое ТВ
 https://ucdn.beetv.kz/btv/live/hls/000000057.m3u8
-#EXTINF:0 type="stream" channelId="5" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-k.png" tvg-id="kultura", Россия К
+#EXTINF:0 type="stream" channelId="5" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-k.png" tvg-id="kultura", Россия К
 https://ucdn.beetv.kz/btv/live/hls/000000066.m3u8
-#EXTINF:0 type="stream" channelId="136" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muz-tv.png" tvg-id="muztv", Муз ТВ
+#EXTINF:0 type="stream" channelId="136" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muz-tv.png" tvg-id="muztv", Муз ТВ
 https://ucdn.beetv.kz/btv/live/hls/000000073.m3u8
-#EXTINF:0 type="stream" channelId="272" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nst.png" tvg-id="nst", НСТ
+#EXTINF:0 type="stream" channelId="272" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nst.png" tvg-id="nst", НСТ
 https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
-#EXTINF:0 type="stream" channelId="450" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-mir.png" tvg-id="ntv-mir", НТВ Мир
+#EXTINF:0 type="stream" channelId="450" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-mir.png" tvg-id="ntv-mir", НТВ Мир
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
-#EXTINF:0 type="stream" channelId="9" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png" tvg-id="rbk", РБК
+#EXTINF:0 type="stream" channelId="9" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png" tvg-id="rbk", РБК
 https://ucdn.beetv.kz/btv/live/hls/000000091.m3u8
-#EXTINF:0 type="stream" channelId="13" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-centr.png" tvg-id="tvcentr", ТВ Центр
+#EXTINF:0 type="stream" channelId="13" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-centr.png" tvg-id="tvcentr", ТВ Центр
 https://ucdn.beetv.kz/btv/live/hls/000000112.m3u8
-#EXTINF:0 type="stream" channelId="197" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fenix+kino.png" tvg-id="feniks-plus-kino", Феникс+ Кино
+#EXTINF:0 type="stream" channelId="197" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fenix+kino.png" tvg-id="feniks-plus-kino", Феникс+ Кино
 https://ucdn.beetv.kz/btv/live/hls/000000125.m3u8
-#EXTINF:0 type="stream" channelId="5171" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sci-fi.png" tvg-id="sony-scifi", .sci-fi
+#EXTINF:0 type="stream" channelId="5171" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sci-fi.png" tvg-id="sony-scifi", .sci-fi
 https://ucdn.beetv.kz/btv/live/hls/000000134.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju%2Bsport.png" tvg-id="viasat-sport", Viju+ Sport
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju%2Bsport.png" tvg-id="viasat-sport", Viju+ Sport
 https://ucdn.beetv.kz/btv/live/hls/000000135.m3u8
-#EXTINF:0 type="stream" channelId="249" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/domashnie-zhivotnye.png" tvg-id="domashnie-zhivotnye", Домашние животные
+#EXTINF:0 type="stream" channelId="249" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/domashnie-zhivotnye.png" tvg-id="domashnie-zhivotnye", Домашние животные
 https://ucdn.beetv.kz/btv/live/hls/000000146.m3u8
-#EXTINF:0 type="stream" channelId="251" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/psychologia.png" tvg-id="psixologia-21", Психология 21
+#EXTINF:0 type="stream" channelId="251" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/psychologia.png" tvg-id="psixologia-21", Психология 21
 https://ucdn.beetv.kz/btv/live/hls/000000147.m3u8
-#EXTINF:0 type="stream" channelId="79" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrokino.png" tvg-id="evrokino", Еврокино
+#EXTINF:0 type="stream" channelId="79" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrokino.png" tvg-id="evrokino", Еврокино
 https://ucdn.beetv.kz/btv/live/hls/000000152.m3u8
-#EXTINF:0 type="stream" channelId="1305" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoonito.png" tvg-id="boomerang", cartoonito
+#EXTINF:0 type="stream" channelId="1305" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoonito.png" tvg-id="boomerang", cartoonito
 https://ucdn.beetv.kz/btv/live/hls/000000160.m3u8
-#EXTINF:0 type="stream" channelId="182" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tiji.png" tvg-id="tiji", Tiji
+#EXTINF:0 type="stream" channelId="182" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tiji.png" tvg-id="tiji", Tiji
 https://ucdn.beetv.kz/btv/live/hls/000000174.m3u8
-#EXTINF:0 type="stream" channelId="250" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/voprosy-otvety.png" tvg-id="voprosy-i-otvety", Вопросы и ответы
+#EXTINF:0 type="stream" channelId="250" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/voprosy-otvety.png" tvg-id="voprosy-i-otvety", Вопросы и ответы
 https://ucdn.beetv.kz/btv/live/hls/000000195.m3u8
-#EXTINF:0 type="stream" channelId="10" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-24.png" tvg-id="rossia-24", Россия 24
+#EXTINF:0 type="stream" channelId="10" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-24.png" tvg-id="rossia-24", Россия 24
 https://ucdn.beetv.kz/btv/live/hls/000000198.m3u8
-#EXTINF:0 type="stream" channelId="51" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/english-club-tv.png" tvg-id="english-club-tv", English Club TV
+#EXTINF:0 type="stream" channelId="51" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/english-club-tv.png" tvg-id="english-club-tv", English Club TV
 https://ucdn.beetv.kz/btv/live/hls/000000202.m3u8
-#EXTINF:0 type="stream" channelId="148" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzika-pervogo.png" tvg-id="muzyka-pervogo", Музыка первого
+#EXTINF:0 type="stream" channelId="148" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzika-pervogo.png" tvg-id="muzyka-pervogo", Музыка первого
 https://ucdn.beetv.kz/btv/live/hls/000000204.m3u8
-#EXTINF:0 type="stream" channelId="176" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/vremya.png" tvg-id="vremia", Время
+#EXTINF:0 type="stream" channelId="176" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/vremya.png" tvg-id="vremia", Время
 https://ucdn.beetv.kz/btv/live/hls/000000205.m3u8
-#EXTINF:0 type="stream" channelId="161" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/telekafe.png" tvg-id="telekafe", Телекафе
+#EXTINF:0 type="stream" channelId="161" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/telekafe.png" tvg-id="telekafe", Телекафе
 https://ucdn.beetv.kz/btv/live/hls/000000206.m3u8
-#EXTINF:0 type="stream" channelId="47" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/shanson-tv.png" tvg-id="shanson-tv", Шансон ТВ
+#EXTINF:0 type="stream" channelId="47" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/shanson-tv.png" tvg-id="shanson-tv", Шансон ТВ
 https://ucdn.beetv.kz/btv/live/hls/000000210.m3u8
-#EXTINF:0 type="stream" channelId="5172" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/red.png" tvg-id="sony-tv", .red
+#EXTINF:0 type="stream" channelId="5172" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/red.png" tvg-id="sony-tv", .red
 https://ucdn.beetv.kz/btv/live/hls/000000213.m3u8
-#EXTINF:0 type="stream" channelId="50" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/animal-planet.png" tvg-id="animal-planet-eu", Animal Planet
+#EXTINF:0 type="stream" channelId="50" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/animal-planet.png" tvg-id="animal-planet-eu", Animal Planet
 https://ucdn.beetv.kz/btv/live/hls/000000216.m3u8
-#EXTINF:0 type="stream" channelId="389" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zagorodniy.png" tvg-id="zagorodny", Загородный
+#EXTINF:0 type="stream" channelId="389" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zagorodniy.png" tvg-id="zagorodny", Загородный
 https://ucdn.beetv.kz/btv/live/hls/000000235.m3u8
-#EXTINF:0 type="stream" channelId="181" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cinema.png" tvg-id="cinema-ru", Cinema
+#EXTINF:0 type="stream" channelId="181" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cinema.png" tvg-id="cinema-ru", Cinema
 https://ucdn.beetv.kz/btv/live/hls/000000239.m3u8
-#EXTINF:0 type="stream" channelId="244" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/spas.png" tvg-id="spas", Спас
+#EXTINF:0 type="stream" channelId="244" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/spas.png" tvg-id="spas", Спас
 https://ucdn.beetv.kz/btv/live/hls/000000247.m3u8
-#EXTINF:0 type="stream" channelId="167" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zoopark.png" tvg-id="zoopark", ZOOпарк
+#EXTINF:0 type="stream" channelId="167" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zoopark.png" tvg-id="zoopark", ZOOпарк
 https://ucdn.beetv.kz/btv/live/hls/000000260.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mtv-00s.png" tvg-id="vh1-european", MTV 00s
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mtv-00s.png" tvg-id="vh1-european", MTV 00s
 https://ucdn.beetv.kz/btv/live/hls/000000264.m3u8
-#EXTINF:0 type="stream" channelId="3925" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/prikluchenia.png" tvg-id="prikluchenia-hd", Приключения
+#EXTINF:0 type="stream" channelId="3925" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/prikluchenia.png" tvg-id="prikluchenia-hd", Приключения
 https://ucdn.beetv.kz/btv/live/hls/000000277.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nashe-lubimoe-kino.png" tvg-id="lubimoe-kino", Наше люимое кино
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nashe-lubimoe-kino.png" tvg-id="lubimoe-kino", Наше люимое кино
 https://ucdn.beetv.kz/btv/live/hls/000000283.m3u8
-#EXTINF:0 type="stream" channelId="183" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gulli-girl.png" tvg-id="gulli-girl", Gulli girl
+#EXTINF:0 type="stream" channelId="183" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gulli-girl.png" tvg-id="gulli-girl", Gulli girl
 https://ucdn.beetv.kz/btv/live/hls/000000284.m3u8
-#EXTINF:0 type="stream" channelId="323" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzhkoy.png" tvg-id="muzhskoy", Мужской
+#EXTINF:0 type="stream" channelId="323" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzhkoy.png" tvg-id="muzhskoy", Мужской
 https://ucdn.beetv.kz/btv/live/hls/000000286.m3u8
-#EXTINF:0 type="stream" channelId="49" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/uspeh.png" tvg-id="uspex", Успех
+#EXTINF:0 type="stream" channelId="49" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/uspeh.png" tvg-id="uspex", Успех
 https://ucdn.beetv.kz/btv/live/hls/000000288.m3u8
-#EXTINF:0 type="stream" channelId="325" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn", Загородная жизнь
+#EXTINF:0 type="stream" channelId="325" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zagorodnaya-zhizn.png" tvg-id="zagorodnaya-zhizn", Загородная жизнь
 https://ucdn.beetv.kz/btv/live/hls/000000289.m3u8
-#EXTINF:0 type="stream" channelId="139" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/france-24.png" tvg-id="france-24", France 24
+#EXTINF:0 type="stream" channelId="139" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/france-24.png" tvg-id="france-24", France 24
 https://ucdn.beetv.kz/btv/live/hls/000000290.m3u8
-#EXTINF:0 type="stream" channelId="352" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/deutsche-welle.png" tvg-id="deutsche-welle-eu", Deutsche Welle
+#EXTINF:0 type="stream" channelId="352" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/deutsche-welle.png" tvg-id="deutsche-welle-eu", Deutsche Welle
 https://ucdn.beetv.kz/btv/live/hls/000000291.m3u8
-#EXTINF:0 type="stream" channelId="223" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/oruzhie.png" tvg-id="oruzhie", Оружие
+#EXTINF:0 type="stream" channelId="223" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/oruzhie.png" tvg-id="oruzhie", Оружие
 https://ucdn.beetv.kz/btv/live/hls/000000308.m3u8
-#EXTINF:0 type="stream" channelId="312" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir-seriala.png" tvg-id="mir-seriala", Мир сериала
+#EXTINF:0 type="stream" channelId="312" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir-seriala.png" tvg-id="mir-seriala", Мир сериала
 https://ucdn.beetv.kz/btv/live/hls/000000319.m3u8
-#EXTINF:0 type="stream" channelId="2184" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mcm.png" tvg-id="mcm-top", MCM Top
+#EXTINF:0 type="stream" channelId="2184" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mcm.png" tvg-id="mcm-top", MCM Top
 https://ucdn.beetv.kz/btv/live/hls/000000327.m3u8
-#EXTINF:0 type="stream" channelId="391" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/galaxy.png" tvg-id="galaxy-tv", Тайны галактики
+#EXTINF:0 type="stream" channelId="391" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/galaxy.png" tvg-id="galaxy-tv", Тайны галактики
 https://ucdn.beetv.kz/btv/live/hls/000000332.m3u8
-#EXTINF:0 type="stream" channelId="171" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/da-vinci.png" tvg-id="da-vinci", Da Vinci Learning
+#EXTINF:0 type="stream" channelId="171" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/da-vinci.png" tvg-id="da-vinci", Da Vinci Learning
 https://ucdn.beetv.kz/btv/live/hls/000000333.m3u8
-#EXTINF:0 type="stream" channelId="914" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a2.png" tvg-id="amedia2", A2
+#EXTINF:0 type="stream" channelId="914" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a2.png" tvg-id="amedia2", A2
 https://ucdn.beetv.kz/btv/live/hls/000000351.m3u8
-#EXTINF:0 type="stream" channelId="296" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/belarus-24.png" tvg-id="belarus24", Беларусь 24
+#EXTINF:0 type="stream" channelId="296" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/belarus-24.png" tvg-id="belarus24", Беларусь 24
 https://ucdn.beetv.kz/btv/live/hls/000000360.m3u8
-#EXTINF:0 type="stream" channelId="1485" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnv-planeta.png" tvg-id="tnv-planeta", ТНВ планета
+#EXTINF:0 type="stream" channelId="1485" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnv-planeta.png" tvg-id="tnv-planeta", ТНВ планета
 https://ucdn.beetv.kz/btv/live/hls/000000418.m3u8
-#EXTINF:0 type="stream" channelId="806" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts.png" tvg-id="sts-int", СТС International
+#EXTINF:0 type="stream" channelId="806" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts.png" tvg-id="sts-int", СТС International
 https://ucdn.beetv.kz/btv/live/hls/000000428.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fashion-lifestyle.png" tvg-id="fashion-one", Fashion & Lifestyle
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fashion-lifestyle.png" tvg-id="fashion-one", Fashion & Lifestyle
 https://ucdn.beetv.kz/btv/live/hls/000000439.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mtv-live.png" tvg-id="mtv-live-hd", MTV Live
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mtv-live.png" tvg-id="mtv-live-hd", MTV Live
 https://ucdn.beetv.kz/btv/live/hls/000000447.m3u8
-#EXTINF:0 type="stream" channelId="322" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr.
+#EXTINF:0 type="stream" channelId="322" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr.
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
-#EXTINF:0 type="stream" channelId="1190" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/comedy-central.png" tvg-id="paramount-comedy", Comedy Central
+#EXTINF:0 type="stream" channelId="1190" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/comedy-central.png" tvg-id="paramount-comedy", Comedy Central
 https://ucdn.beetv.kz/btv/live/hls/000000452.m3u8
-#EXTINF:0 type="stream" channelId="41" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nickelodeon.png" tvg-id="nickelodeon-ru", Nickelodeon
+#EXTINF:0 type="stream" channelId="41" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nickelodeon.png" tvg-id="nickelodeon-ru", Nickelodeon
 https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8
-#EXTINF:0 type="stream" channelId="5173" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/black.png" tvg-id="sony-turbo", .black
+#EXTINF:0 type="stream" channelId="5173" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/black.png" tvg-id="sony-turbo", .black
 https://ucdn.beetv.kz/btv/live/hls/000000520.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eda-premium-international.png" tvg-id="eda-hd-int", Еда премиум международный
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eda-premium-international.png" tvg-id="eda-hd-int", Еда премиум международный
 https://ucdn.beetv.kz/btv/live/hls/000000588.m3u8
-#EXTINF:0 type="stream" channelId="300" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ohotnik-i-rybolov.png" tvg-id="oxotnik-i-rybolov", Охотник и рыболов
+#EXTINF:0 type="stream" channelId="300" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ohotnik-i-rybolov.png" tvg-id="oxotnik-i-rybolov", Охотник и рыболов
 https://ucdn.beetv.kz/btv/live/hls/000000608.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/7.png" tvg-id="7kanal-kz", Седьмой канал
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/7.png" tvg-id="7kanal-kz", Седьмой канал
 https://ucdn.beetv.kz/btv/live/hls/000000659.m3u8
-#EXTINF:0 type="stream" channelId="1716" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/31.png" tvg-id="31-kanal-kz", 31 канал
+#EXTINF:0 type="stream" channelId="1716" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/31.png" tvg-id="31-kanal-kz", 31 канал
 https://ucdn.beetv.kz/btv/live/hls/000000663.m3u8
-#EXTINF:0 type="stream" channelId="1830" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/astana-tv.png" tvg-id="astana", Astana tv
+#EXTINF:0 type="stream" channelId="1830" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/astana-tv.png" tvg-id="astana", Astana tv
 https://ucdn.beetv.kz/btv/live/hls/000000666.m3u8
-#EXTINF:0 type="stream" channelId="2791" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/almaty-tv.png" tvg-id="almaty", Almaty tv
+#EXTINF:0 type="stream" channelId="2791" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/almaty-tv.png" tvg-id="almaty", Almaty tv
 https://ucdn.beetv.kz/btv/live/hls/000000667.m3u8
-#EXTINF:0 type="stream" channelId="2518" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal-evrasia.png" tvg-id="pervy-kanal-eurasia-kz", Первый канал Евразия
+#EXTINF:0 type="stream" channelId="2518" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal-evrasia.png" tvg-id="pervy-kanal-eurasia-kz", Первый канал Евразия
 https://ucdn.beetv.kz/btv/live/hls/000000669.m3u8
-#EXTINF:0 type="stream" channelId="4621" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/el-arna.png" tvg-id="el-arna", Ел Арна
+#EXTINF:0 type="stream" channelId="4621" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/el-arna.png" tvg-id="el-arna", Ел Арна
 https://ucdn.beetv.kz/btv/live/hls/000000670.m3u8
-#EXTINF:0 type="stream" channelId="1135" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png" tvg-id="ktk-kz", КТК
+#EXTINF:0 type="stream" channelId="1135" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png" tvg-id="ktk-kz", КТК
 https://ucdn.beetv.kz/btv/live/hls/000000672.m3u8
-#EXTINF:0 type="stream" channelId="394" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntk.png"tvg-id="ntk-kz", НТК
+#EXTINF:0 type="stream" channelId="394" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntk.png"tvg-id="ntk-kz", НТК
 https://ucdn.beetv.kz/btv/live/hls/000000673.m3u8
-#EXTINF:0 type="stream" channelId="2883" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cnn.png" tvg-id="cnn", CNN international
+#EXTINF:0 type="stream" channelId="2883" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cnn.png" tvg-id="cnn", CNN international
 https://ucdn.beetv.kz/btv/live/hls/000000707.m3u8
-#EXTINF:0 type="stream" channelId="915" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/amedia-premium.png" tvg-id="amedia-premium", Amedia Premium
+#EXTINF:0 type="stream" channelId="915" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/amedia-premium.png" tvg-id="amedia-premium", Amedia Premium
 https://ucdn.beetv.kz/btv/live/hls/000000709.m3u8
-#EXTINF:0 type="stream" channelId="913" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a1.png" tvg-id="amedia1", A1
+#EXTINF:0 type="stream" channelId="913" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a1.png" tvg-id="amedia1", A1
 https://ucdn.beetv.kz/btv/live/hls/000000710.m3u8
-#EXTINF:0 type="stream" channelId="1503" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/karusel.png" tvg-id="karusel-int", Карусель international
+#EXTINF:0 type="stream" channelId="1503" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/karusel.png" tvg-id="karusel-int", Карусель international
 https://ucdn.beetv.kz/btv/live/hls/000000781.m3u8
-#EXTINF:0 type="stream" channelId="1945" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzzone.png" tvg-id="muzzone", Muzzone
+#EXTINF:0 type="stream" channelId="1945" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzzone.png" tvg-id="muzzone", Muzzone
 https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
-#EXTINF:0 type="stream" channelId="264" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="2" tvg-id="rtr-planeta-eu", РТР-Планета
+#EXTINF:0 type="stream" channelId="264" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="2" tvg-id="rtr-planeta-eu", РТР-Планета
 https://ucdn.beetv.kz/btv/live/hls/000000812.m3u8
-#EXTINF:0 type="stream" channelId="1282" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/auto-24.png" tvg-id="avto24", Авто 24
+#EXTINF:0 type="stream" channelId="1282" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/auto-24.png" tvg-id="avto24", Авто 24
 https://ucdn.beetv.kz/btv/live/hls/000000815.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+premiere.png" tvg-id="vip-premiere", Viju+ Premiere
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+premiere.png" tvg-id="vip-premiere", Viju+ Premiere
 https://ucdn.beetv.kz/btv/live/hls/000000868.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+megahit.png" tvg-id="vip-megahit", Viju+ Megahit
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+megahit.png" tvg-id="vip-megahit", Viju+ Megahit
 https://ucdn.beetv.kz/btv/live/hls/000000869.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+comedy.png" tvg-id="vip-comedy", Viju+ Comedy
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+comedy.png" tvg-id="vip-comedy", Viju+ Comedy
 https://ucdn.beetv.kz/btv/live/hls/000000870.m3u8
-#EXTINF:0 type="stream" channelId="2520" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pervy-karagandinsky.png" tvg-id="pervy-karagandinsky", Первый Карагандинский
+#EXTINF:0 type="stream" channelId="2520" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pervy-karagandinsky.png" tvg-id="pervy-karagandinsky", Первый Карагандинский
 https://ucdn.beetv.kz/btv/live/hls/000000939.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/talim-tv.png" tvg-id="asyl-arna", Talim TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/talim-tv.png" tvg-id="asyl-arna", Talim TV
 https://ucdn.beetv.kz/btv/live/hls/000000940.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jibek-joly.png" tvg-id="kazakh-tv", Jibek Joly
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jibek-joly.png" tvg-id="kazakh-tv", Jibek Joly
 https://ucdn.beetv.kz/btv/live/hls/000000941.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/5-kanal-regionalniy.png" tvg-id="5kanal-karaganda", 5 канал (региональный)
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/5-kanal-regionalniy.png" tvg-id="5kanal-karaganda", 5 канал (региональный)
 https://ucdn.beetv.kz/btv/live/hls/000000950.m3u8
-#EXTINF:0 type="stream" channelId="1455" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/history.png" tvg-id="history-ru", History
+#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/history.png" tvg-id="history-ru", History
 https://ucdn.beetv.kz/btv/live/hls/000001000.m3u8
-#EXTINF:0 type="stream" channelId="1476" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/1hd-music-television.png" tvg-id="1hd", 1HD Music Television
+#EXTINF:0 type="stream" channelId="1476" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/1hd-music-television.png" tvg-id="1hd", 1HD Music Television
 https://ucdn.beetv.kz/btv/live/hls/000001020.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/planeta.png" tvg-id="moya-planeta", Планета
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/planeta.png" tvg-id="moya-planeta", Планета
 https://ucdn.beetv.kz/btv/live/hls/000001049.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/otyrar.png" tvg-id="otyrar-tv", Отырар-TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/otyrar.png" tvg-id="otyrar-tv", Отырар-TV
 https://ucdn.beetv.kz/btv/live/hls/000001052.m3u8
-#EXTINF:0 type="stream" channelId="1815" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zhivaya-priroda.png" tvg-id="zhivaya-priroda", Живая природа
+#EXTINF:0 type="stream" channelId="1815" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zhivaya-priroda.png" tvg-id="zhivaya-priroda", Живая природа
 https://ucdn.beetv.kz/btv/live/hls/000001187.m3u8
-#EXTINF:0 type="stream" channelId="1722" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mult.png" tvg-id="mult", Мульт
+#EXTINF:0 type="stream" channelId="1722" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mult.png" tvg-id="mult", Мульт
 https://ucdn.beetv.kz/btv/live/hls/000001207.m3u8
-#EXTINF:0 type="stream" channelId="2526" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/hit-tv.png" tvg-id="hit-tv", Hit TV
+#EXTINF:0 type="stream" channelId="2526" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/hit-tv.png" tvg-id="hit-tv", Hit TV
 https://ucdn.beetv.kz/btv/live/hls/000001213.m3u8
-#EXTINF:0 type="stream" channelId="1800" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kosmicheskiy.png" tvg-id="eureka-hd", Первый космический
+#EXTINF:0 type="stream" channelId="1800" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kosmicheskiy.png" tvg-id="eureka-hd", Первый космический
 https://ucdn.beetv.kz/btv/live/hls/000001220.m3u8
-#EXTINF:0 type="stream" channelId="1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal.png" tvg-id="pervy", Первый канал
+#EXTINF:0 type="stream" channelId="1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal.png" tvg-id="pervy", Первый канал
 https://ucdn.beetv.kz/btv/live/hls/000001227.m3u8
-#EXTINF:0 type="stream" channelId="22" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perec.png" tvg-id="perec-int", Перец
+#EXTINF:0 type="stream" channelId="22" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perec.png" tvg-id="perec-int", Перец
 https://ucdn.beetv.kz/btv/live/hls/000001248.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktokuda.png" tvg-id="mir-uvlecheniy", #Ктокуда
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktokuda.png" tvg-id="mir-uvlecheniy", #Ктокуда
 https://ucdn.beetv.kz/btv/live/hls/000001377.m3u8
-#EXTINF:0 type="stream" channelId="2521" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/novoe-televidenie.png" tvg-id="novoe-televidenie", Новое Телевидение
+#EXTINF:0 type="stream" channelId="2521" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/novoe-televidenie.png" tvg-id="novoe-televidenie", Новое Телевидение
 https://ucdn.beetv.kz/btv/live/hls/000001380.m3u8
-#EXTINF:0 type="stream" channelId="2884" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gakku.png" tvg-id="gakku", Gakku TV
+#EXTINF:0 type="stream" channelId="2884" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gakku.png" tvg-id="gakku", Gakku TV
 https://ucdn.beetv.kz/btv/live/hls/000001383.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turan.png" tvg-id="turan-tv", Turan TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turan.png" tvg-id="turan-tv", Turan TV
 https://ucdn.beetv.kz/btv/live/hls/000001404.m3u8
-#EXTINF:0 type="stream" channelId="4646" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/glazami-turista.png" tvg-id="glazami-turista", Глазами туриста
+#EXTINF:0 type="stream" channelId="4646" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/glazami-turista.png" tvg-id="glazami-turista", Глазами туриста
 https://ucdn.beetv.kz/btv/live/hls/000001414.m3u8
-#EXTINF:0 type="stream" channelId="2802" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bollywood.png" tvg-id="bollywood-hd", Bollywood
+#EXTINF:0 type="stream" channelId="2802" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bollywood.png" tvg-id="bollywood-hd", Bollywood
 https://ucdn.beetv.kz/btv/live/hls/000001419.m3u8
-#EXTINF:0 type="stream" channelId="2798" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ryzhiy.png" tvg-id="ryzhy", Рыжий
+#EXTINF:0 type="stream" channelId="2798" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ryzhiy.png" tvg-id="ryzhy", Рыжий
 https://ucdn.beetv.kz/btv/live/hls/000001445.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jetisy.png" tvg-id="zhetysu", Жетiсу
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jetisy.png" tvg-id="zhetysu", Жетiсу
 https://ucdn.beetv.kz/btv/live/hls/000001458.m3u8
-#EXTINF:0 type="stream" channelId="2674" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kapitan-fantastika.png" tvg-id="ginger-hd", Капитан фантастика
+#EXTINF:0 type="stream" channelId="2674" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kapitan-fantastika.png" tvg-id="ginger-hd", Капитан фантастика
 https://ucdn.beetv.kz/btv/live/hls/000001474.m3u8
-#EXTINF:0 type="stream" channelId="646" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bober.png" tvg-id="bobior", Бобёр
+#EXTINF:0 type="stream" channelId="646" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bober.png" tvg-id="bobior", Бобёр
 https://ucdn.beetv.kz/btv/live/hls/000001478.m3u8
-#EXTINF:0 type="stream" channelId="16" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
+#EXTINF:0 type="stream" channelId="16" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
 https://ucdn.beetv.kz/btv/live/hls/000001480.m3u8
-#EXTINF:0 type="stream" channelId="57" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/discovery.png" tvg-id="discovery-channel", Discovery Channel
+#EXTINF:0 type="stream" channelId="57" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/discovery.png" tvg-id="discovery-channel", Discovery Channel
 https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
-#EXTINF:0 type="stream" channelId="67" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tlc.png" tvg-id="tlc", TLC
+#EXTINF:0 type="stream" channelId="67" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tlc.png" tvg-id="tlc", TLC
 https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tdk-42.png" tvg-id="tdk-42", TDK 42
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tdk-42.png" tvg-id="tdk-42", TDK 42
 https://ucdn.beetv.kz/btv/live/hls/000001507.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/aigak.png" tvg-id="aifak-kz", Айғақ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/aigak.png" tvg-id="aifak-kz", Айғақ
 https://ucdn.beetv.kz/btv/live/hls/000001510.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/alau-tv.png" tvg-id="alautv", Алау ТВ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/alau-tv.png" tvg-id="alautv", Алау ТВ
 https://ucdn.beetv.kz/btv/live/hls/000001511.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/irbis.png" tvg-id="irbis", Ирбис TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/irbis.png" tvg-id="irbis", Ирбис TV
 https://ucdn.beetv.kz/btv/live/hls/000001513.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rika.png" tvg-id="rika", РИКА-ТВ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rika.png" tvg-id="rika", РИКА-ТВ
 https://ucdn.beetv.kz/btv/live/hls/000001514.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tvk-6.png", ТВК 6
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tvk-6.png", ТВК 6
 https://ucdn.beetv.kz/btv/live/hls/000001516.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qostanai.png" tvg-id="qostanai-kz", Qostanai
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qostanai.png" tvg-id="qostanai-kz", Qostanai
 https://ucdn.beetv.kz/btv/live/hls/000001521.m3u8
-#EXTINF:0 type="stream" channelId="36" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/8-kanal.png" tvg-id="8kanal-eu", 8 канал
+#EXTINF:0 type="stream" channelId="36" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/8-kanal.png" tvg-id="8kanal-eu", 8 канал
 https://ucdn.beetv.kz/btv/live/hls/000001564.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/atyray.png" tvg-id="atyray", Atyraý
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/atyray.png" tvg-id="atyray", Atyraý
 https://ucdn.beetv.kz/btv/live/hls/000001570.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/altai.png" tvg-id="altai-kz", Altai
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/altai.png" tvg-id="altai-kz", Altai
 https://ucdn.beetv.kz/btv/live/hls/000001572.m3u8
-#EXTINF:0 type="stream" channelId="1932" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/amedia-hit.png" tvg-id="amedia-hit", Amedia Hit
+#EXTINF:0 type="stream" channelId="1932" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/amedia-hit.png" tvg-id="amedia-hit", Amedia Hit
 https://ucdn.beetv.kz/btv/live/hls/000001662.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/aqjaiyq.png" tvg-id="aqjaiyq", Aqjaiyq
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/aqjaiyq.png" tvg-id="aqjaiyq", Aqjaiyq
 https://ucdn.beetv.kz/btv/live/hls/000001689.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/e-tv.png" tvg-id="e-tv", Е TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/e-tv.png" tvg-id="e-tv", Е TV
 https://ucdn.beetv.kz/btv/live/hls/000001829.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/centralnoye-tv.png" tvg-id="centralnoye-tv", Центральное ТВ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/centralnoye-tv.png" tvg-id="centralnoye-tv", Центральное ТВ
 https://ucdn.beetv.kz/btv/live/hls/000001880.m3u8
-#EXTINF:0 type="stream" channelId="3871" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/anekdot-tv.png" tvg-id="anekdottv", Анекдот ТВ
+#EXTINF:0 type="stream" channelId="3871" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/anekdot-tv.png" tvg-id="anekdottv", Анекдот ТВ
 https://ucdn.beetv.kz/btv/live/hls/000001921.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/domashniy.png" tvg-id="domashny-int", Домашний International
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/domashniy.png" tvg-id="domashny-int", Домашний International
 https://ucdn.beetv.kz/btv/live/hls/000002348.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/euronews.png" tvg-id="euronews-en", Euronews English
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/euronews.png" tvg-id="euronews-en", Euronews English
 https://ucdn.beetv.kz/btv/live/hls/000002455.m3u8
-#EXTINF:0 type="stream" channelId="11" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ren-tv.png" tvg-id="rentv-int", Рен ТВ international
+#EXTINF:0 type="stream" channelId="11" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ren-tv.png" tvg-id="rentv-int", Рен ТВ international
 https://ucdn.beetv.kz/btv/live/hls/000002472.m3u8
-#EXTINF:0 type="stream" channelId="82" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport1.png" tvg-id="eurosport1", Eurosport 1
+#EXTINF:0 type="stream" channelId="82" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport1.png" tvg-id="eurosport1", Eurosport 1
 https://ucdn.beetv.kz/btv/live/hls/000002478.m3u8
-#EXTINF:0 type="stream" channelId="83" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport2.png" tvg-id="eurosport2", Eurosport 2
+#EXTINF:0 type="stream" channelId="83" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport2.png" tvg-id="eurosport2", Eurosport 2
 https://ucdn.beetv.kz/btv/live/hls/000002479.m3u8
-#EXTINF:0 type="stream" channelId="221" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ohota-i-rybalka.png" tvg-id="oxota-i-rybalka", Охота и рыбалка
+#EXTINF:0 type="stream" channelId="221" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ohota-i-rybalka.png" tvg-id="oxota-i-rybalka", Охота и рыбалка
 https://ucdn.beetv.kz/btv/live/hls/000002510.m3u8
-#EXTINF:0 type="stream" channelId="138" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" tvg-id="mir", Мир
+#EXTINF:0 type="stream" channelId="138" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" tvg-id="mir", Мир
 https://ucdn.beetv.kz/btv/live/hls/000002555.m3u8
-#EXTINF:0 type="stream" channelId="589" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir-24.png" tvg-id="mir-24", Мир 24
+#EXTINF:0 type="stream" channelId="589" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir-24.png" tvg-id="mir-24", Мир 24
 https://ucdn.beetv.kz/btv/live/hls/000002557.m3u8
-#EXTINF:0 type="stream" channelId="4841" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-kz.png" tvg-id="setanta-kz", Setanta Qazaqstan
+#EXTINF:0 type="stream" channelId="4841" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-kz.png" tvg-id="setanta-kz", Setanta Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000002649.m3u8
-#EXTINF:0 type="stream" channelId="4847" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/etv.png" tvg-id="tvoyo-tv-kz", Твоё Телевидение
+#EXTINF:0 type="stream" channelId="4847" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/etv.png" tvg-id="tvoyo-tv-kz", Твоё Телевидение
 https://ucdn.beetv.kz/btv/live/hls/000002721.m3u8
-#EXTINF:0 type="stream" channelId="1202" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/history-2.png" tvg-id="h2", History 2HD
+#EXTINF:0 type="stream" channelId="1202" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/history-2.png" tvg-id="h2", History 2HD
 https://ucdn.beetv.kz/btv/live/hls/000002722.m3u8
-#EXTINF:0 type="stream" channelId="3162" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-pravo.png" tvg-id="ntv-pravo", НТВ право
+#EXTINF:0 type="stream" channelId="3162" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-pravo.png" tvg-id="ntv-pravo", НТВ право
 https://ucdn.beetv.kz/btv/live/hls/000002759.m3u8
-#EXTINF:0 type="stream" channelId="3160" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-serial.png" tvg-id="ntv-serial", НТВ сериал
+#EXTINF:0 type="stream" channelId="3160" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-serial.png" tvg-id="ntv-serial", НТВ сериал
 https://ucdn.beetv.kz/btv/live/hls/000002760.m3u8
-#EXTINF:0 type="stream" channelId="3161" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-stil.png" tvg-id="ntv-style", НТВ стиль
+#EXTINF:0 type="stream" channelId="3161" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-stil.png" tvg-id="ntv-style", НТВ стиль
 https://ucdn.beetv.kz/btv/live/hls/000002761.m3u8
-#EXTINF:0 type="stream" channelId="3556" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/v-gostah-u-skazki.png" tvg-id="v-gostiax-u-skazki", В гостях у сказки
+#EXTINF:0 type="stream" channelId="3556" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/v-gostah-u-skazki.png" tvg-id="v-gostiax-u-skazki", В гостях у сказки
 https://ucdn.beetv.kz/btv/live/hls/000002762.m3u8
-#EXTINF:0 type="stream" channelId="1569" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/77-tv.png" tvg-id="77tv-kz", 77 TV
+#EXTINF:0 type="stream" channelId="1569" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/77-tv.png" tvg-id="77tv-kz", 77 TV
 https://ucdn.beetv.kz/btv/live/hls/000002851.m3u8
-#EXTINF:0 type="stream" channelId="77" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt4.png" tvg-id="tnt4-international", ТНТ4
+#EXTINF:0 type="stream" channelId="77" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt4.png" tvg-id="tnt4-international", ТНТ4
 https://ucdn.beetv.kz/btv/live/hls/000002926.m3u8
-#EXTINF:0 type="stream" channelId="3880" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-vegetarianskiy.png" tvg-id="pervy-vegetariansky", Первый вегетарианский
+#EXTINF:0 type="stream" channelId="3880" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-vegetarianskiy.png" tvg-id="pervy-vegetariansky", Первый вегетарианский
 https://ucdn.beetv.kz/btv/live/hls/000002927.m3u8
-#EXTINF:0 type="stream" channelId="3294" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/o.png" tvg-id="o_", O!
+#EXTINF:0 type="stream" channelId="3294" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/o.png" tvg-id="o_", O!
 https://ucdn.beetv.kz/btv/live/hls/000002928.m3u8
-#EXTINF:0 type="stream" channelId="4846" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/toy-duman.png" tvg-id="toy-duman", Той Думан
+#EXTINF:0 type="stream" channelId="4846" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/toy-duman.png" tvg-id="toy-duman", Той Думан
 https://ucdn.beetv.kz/btv/live/hls/000002936.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino-premium.png" tvg-id="domkino-premium", Дом кино Premium
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino-premium.png" tvg-id="domkino-premium", Дом кино Premium
 https://ucdn.beetv.kz/btv/live/hls/000002943.m3u8
-#EXTINF:0 type="stream" channelId="3295" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/poehali.png" tvg-id="poexali", Поехали!
+#EXTINF:0 type="stream" channelId="3295" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/poehali.png" tvg-id="poexali", Поехали!
 https://ucdn.beetv.kz/btv/live/hls/000002991.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/koshe.png" tvg-id="kokshe", Kókshe
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/koshe.png" tvg-id="kokshe", Kókshe
 https://ucdn.beetv.kz/btv/live/hls/000003021.m3u8
-#EXTINF:0 type="stream" channelId="3031" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/filmuadrama.png" tvg-id="filmua-drama", FilmUADrama
+#EXTINF:0 type="stream" channelId="3031" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/filmuadrama.png" tvg-id="filmua-drama", FilmUADrama
 https://ucdn.beetv.kz/btv/live/hls/000003028.m3u8
-#EXTINF:0 type="stream" channelId="2524" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazsport.png" tvg-id="kazsport", Qazsport
+#EXTINF:0 type="stream" channelId="2524" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazsport.png" tvg-id="kazsport", Qazsport
 https://ucdn.beetv.kz/btv/live/hls/000003038.m3u8
-#EXTINF:0 type="stream" channelId="2517" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/saryarqa.png" tvg-id="saryarqa", Saryarqa
+#EXTINF:0 type="stream" channelId="2517" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/saryarqa.png" tvg-id="saryarqa", Saryarqa
 https://ucdn.beetv.kz/btv/live/hls/000003146.m3u8
-#EXTINF:0 type="stream" channelId="3709" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dialogi-o-rybalke.png" tvg-id="dialogi-o-rybalke", Диалоги о рыбалке
+#EXTINF:0 type="stream" channelId="3709" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dialogi-o-rybalke.png" tvg-id="dialogi-o-rybalke", Диалоги о рыбалке
 https://ucdn.beetv.kz/btv/live/hls/000003174.m3u8
-#EXTINF:0 type="stream" channelId="3705" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tochka-otryva.png" tvg-id="tochka-otryva", Точка отрыва
+#EXTINF:0 type="stream" channelId="3705" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tochka-otryva.png" tvg-id="tochka-otryva", Точка отрыва
 https://ucdn.beetv.kz/btv/live/hls/000003208.m3u8
-#EXTINF:0 type="stream" channelId="1054" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/trt-avaz.png" tvg-id="trt-avaz", TRT AVAZ
+#EXTINF:0 type="stream" channelId="1054" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/trt-avaz.png" tvg-id="trt-avaz", TRT AVAZ
 https://ucdn.beetv.kz/btv/live/hls/000003240.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jambyl.png" tvg-id="jambyl-kz", Jambyl
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/jambyl.png" tvg-id="jambyl-kz", Jambyl
 https://ucdn.beetv.kz/btv/live/hls/000003244.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qyzylorda.png" tvg-id="qyzylorda-kz", Qyzylorda
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qyzylorda.png" tvg-id="qyzylorda-kz", Qyzylorda
 https://ucdn.beetv.kz/btv/live/hls/000003246.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mangystay.png" tvg-id="mangystay", Mańǵystaý
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mangystay.png" tvg-id="mangystay", Mańǵystaý
 https://ucdn.beetv.kz/btv/live/hls/000003247.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ertis.png" tvg-id="ertis", Ertis
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ertis.png" tvg-id="ertis", Ertis
 https://ucdn.beetv.kz/btv/live/hls/000003248.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qyzyljar.png" tvg-id="qyzyljar", Qyzyljar
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qyzyljar.png" tvg-id="qyzyljar", Qyzyljar
 https://ucdn.beetv.kz/btv/live/hls/000003249.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semei.png" tvg-id="semei", Semei
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semei.png" tvg-id="semei", Semei
 https://ucdn.beetv.kz/btv/live/hls/000003250.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ontustik.png" tvg-id="ontustik", Ońtústik
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ontustik.png" tvg-id="ontustik", Ońtústik
 https://ucdn.beetv.kz/btv/live/hls/000003251.m3u8
-#EXTINF:0 type="stream" channelId="147" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dorama.png" tvg-id="dorama", Дорама
+#EXTINF:0 type="stream" channelId="147" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dorama.png" tvg-id="dorama", Дорама
 https://ucdn.beetv.kz/btv/live/hls/000003392.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tmb.png", ТМВ TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tmb.png", ТМВ TV
 https://ucdn.beetv.kz/btv/live/hls/000003452.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ulytau.png" tvg-id="ulytau-kz", Ulytau
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ulytau.png" tvg-id="ulytau-kz", Ulytau
 https://ucdn.beetv.kz/btv/live/hls/000003604.m3u8
-#EXTINF:0 type="stream" channelId="7" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/5-kanal.png" tvg-id="piaty-int", Пятый канал
+#EXTINF:0 type="stream" channelId="7" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/5-kanal.png" tvg-id="piaty-int", Пятый канал
 https://ucdn.beetv.kz/btv/live/hls/000003718.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000.png" tvg-id="tv1000", Viju TV1000
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000.png" tvg-id="tv1000", Viju TV1000
 https://ucdn.beetv.kz/btv/live/hls/000003747.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000-russkoe.png" tvg-id="tv1000-russkoe-kino", Viju TV1000 русское
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000-russkoe.png" tvg-id="tv1000-russkoe-kino", Viju TV1000 русское
 https://ucdn.beetv.kz/btv/live/hls/000003748.m3u8
-#EXTINF:0 type="stream" channelId="4025" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nasha-tema.png" tvg-id="nasha-tema", Наша тема
+#EXTINF:0 type="stream" channelId="4025" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nasha-tema.png" tvg-id="nasha-tema", Наша тема
 https://ucdn.beetv.kz/btv/live/hls/000003785.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoman.png" tvg-id="kinosat", Киноман
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoman.png" tvg-id="kinosat", Киноман
 https://ucdn.beetv.kz/btv/live/hls/000003871.m3u8
-#EXTINF:0 type="stream" channelId="1728" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts-kids.png" tvg-id="sts-kids-hd", СТС Kids
+#EXTINF:0 type="stream" channelId="1728" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sts-kids.png" tvg-id="sts-kids-hd", СТС Kids
 https://ucdn.beetv.kz/btv/live/hls/000003892.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000-action.png" tvg-id="tv1000-action", Viju TV1000 action
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-tv1000-action.png" tvg-id="tv1000-action", Viju TV1000 action
 https://ucdn.beetv.kz/btv/live/hls/000003910.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-explore.png" tvg-id="viasat-explore", Viju explore
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-explore.png" tvg-id="viasat-explore", Viju explore
 https://ucdn.beetv.kz/btv/live/hls/000004157.m3u8
-#EXTINF:0 type="stream" channelId="189" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/russkiy-illuzion.png" tvg-id="russky-illuzion", Русский иллюзион
+#EXTINF:0 type="stream" channelId="189" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/russkiy-illuzion.png" tvg-id="russky-illuzion", Русский иллюзион
 https://ucdn.beetv.kz/btv/live/hls/000004207.m3u8
-#EXTINF:0 type="stream" channelId="2516" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazaqstan.png" tvg-id="kazakhstan", Qazaqstan
+#EXTINF:0 type="stream" channelId="2516" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazaqstan.png" tvg-id="kazakhstan", Qazaqstan
 https://ucdn.beetv.kz/btv/live/hls/000004208.m3u8
-#EXTINF:0 type="stream" channelId="1810" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/habar.png" tvg-id="xabar", Хабар
+#EXTINF:0 type="stream" channelId="1810" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/habar.png" tvg-id="xabar", Хабар
 https://ucdn.beetv.kz/btv/live/hls/000004211.m3u8
-#EXTINF:0 type="stream" channelId="2711" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nicktoons.png" tvg-id="nicktoons", Nicktoons
+#EXTINF:0 type="stream" channelId="2711" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nicktoons.png" tvg-id="nicktoons", Nicktoons
 https://ucdn.beetv.kz/btv/live/hls/000004365.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+serial.png" tvg-id="vip-serial", Viju+serial
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju+serial.png" tvg-id="vip-serial", Viju+serial
 https://ucdn.beetv.kz/btv/live/hls/000004375.m3u8
-#EXTINF:0 type="stream" channelId="4517" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/flixsnip.png" tvg-id="flixsnip", FlixSnip
+#EXTINF:0 type="stream" channelId="4517" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/flixsnip.png" tvg-id="flixsnip", FlixSnip
 https://ucdn.beetv.kz/btv/live/hls/000004466.m3u8
-#EXTINF:0 type="stream" channelId="178" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fxlife.png" tvg-id="foxlife", Fx Life
+#EXTINF:0 type="stream" channelId="178" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fxlife.png" tvg-id="foxlife", Fx Life
 https://ucdn.beetv.kz/btv/live/hls/000004471.m3u8
-#EXTINF:0 type="stream" channelId="177" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fx.png" tvg-id="fox", FX
+#EXTINF:0 type="stream" channelId="177" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/fx.png" tvg-id="fox", FX
 https://ucdn.beetv.kz/btv/live/hls/000004472.m3u8
-#EXTINF:0 type="stream" channelId="164" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo-wild.png" tvg-id="nat-geo-wild", Nat Geo Wild
+#EXTINF:0 type="stream" channelId="164" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo-wild.png" tvg-id="nat-geo-wild", Nat Geo Wild
 https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8
-#EXTINF:0 type="stream" channelId="4848" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1
+#EXTINF:0 type="stream" channelId="4848" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1
 https://ucdn.beetv.kz/btv/live/hls/000004498.m3u8
-#EXTINF:0 type="stream" channelId="4849" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2
+#EXTINF:0 type="stream" channelId="4849" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2
 https://ucdn.beetv.kz/btv/live/hls/000004499.m3u8
-#EXTINF:0 type="stream" channelId="3922" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pobeda.png" tvg-id="pobeda", Победа
+#EXTINF:0 type="stream" channelId="3922" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pobeda.png" tvg-id="pobeda", Победа
 https://ucdn.beetv.kz/btv/live/hls/000004534.m3u8
-#EXTINF:0 type="stream" channelId="190" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/illuzion+.png" tvg-id="illuzion-plus", Иллюзион+
+#EXTINF:0 type="stream" channelId="190" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/illuzion+.png" tvg-id="illuzion-plus", Иллюзион+
 https://ucdn.beetv.kz/btv/live/hls/000004582.m3u8
-#EXTINF:0 type="stream" channelId="159" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kluch.png" tvg-id="kluch", Ключ
+#EXTINF:0 type="stream" channelId="159" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kluch.png" tvg-id="kluch", Ключ
 https://ucdn.beetv.kz/btv/live/hls/000004585.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dikaya-ohota.png" tvg-id="dikaya-oxota-hd", Дикая охота
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dikaya-ohota.png" tvg-id="dikaya-oxota-hd", Дикая охота
 https://ucdn.beetv.kz/btv/live/hls/000004609.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dikaya-rybalka.png" tvg-id="dikaya-rybalka-hd", Дикая рыбалка
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dikaya-rybalka.png" tvg-id="dikaya-rybalka-hd", Дикая рыбалка
 https://ucdn.beetv.kz/btv/live/hls/000004610.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-kz.png"  tvg-id="setanta-kz", Setanta Qazaqstan KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-kz.png"  tvg-id="setanta-kz", Setanta Qazaqstan KZ
 https://ucdn.beetv.kz/btv/live/hls/000004619.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/caspian-news.png" tvg-id="caspian-news", Caspian News
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/caspian-news.png" tvg-id="caspian-news", Caspian News
 https://ucdn.beetv.kz/btv/live/hls/000004646.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv3-international.png" tvg-id="tv3-int", ТВ3 International
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv3-international.png" tvg-id="tv3-int", ТВ3 International
 https://ucdn.beetv.kz/btv/live/hls/000004712.m3u8
-#EXTINF:0 type="stream" channelId="2525" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/24-kz.png" tvg-id="xabar24", 24 KZ
+#EXTINF:0 type="stream" channelId="2525" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/24-kz.png" tvg-id="xabar24", 24 KZ
 https://ucdn.beetv.kz/btv/live/hls/000005177.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/balapan.png" tvg-id="balapan", Balapan
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/balapan.png" tvg-id="balapan", Balapan
 https://ucdn.beetv.kz/btv/live/hls/000005178.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/atameken-business.png" tvg-id="atameken-business", Atameken bussiness channel
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/atameken-business.png" tvg-id="atameken-business", Atameken bussiness channel
 https://ucdn.beetv.kz/btv/live/hls/000005322.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-alem-1.png" tvg-id="q-kino-hit", QAlem 1
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-alem-1.png" tvg-id="q-kino-hit", QAlem 1
 https://ucdn.beetv.kz/btv/live/hls/000005449.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-alem-2.png" tvg-id="q-kino-alem", QAlem 2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-alem-2.png" tvg-id="q-kino-alem", QAlem 2
 https://ucdn.beetv.kz/btv/live/hls/000005450.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-history.png" tvg-id="viasat-history", Viju History
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-history.png" tvg-id="viasat-history", Viju History
 https://ucdn.beetv.kz/btv/live/hls/000005528.m3u8
-#EXTINF:0 type="stream" channelId="5203" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/trash.png" tvg-id="trashtv", Trash
+#EXTINF:0 type="stream" channelId="5203" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/trash.png" tvg-id="trashtv", Trash
 https://ucdn.beetv.kz/btv/live/hls/000005621.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/abai-tv.png" tvg-id="abaitv", ABAI TV
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/abai-tv.png" tvg-id="abaitv", ABAI TV
 https://ucdn.beetv.kz/btv/live/hls/000006116.m3u8
-#EXTINF:0 type="stream" channelId="4908" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mosfilm-zolotaya-kollekcia.png" tvg-id="mosfilm", Мосфильм. Золотая коллекция
+#EXTINF:0 type="stream" channelId="4908" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mosfilm-zolotaya-kollekcia.png" tvg-id="mosfilm", Мосфильм. Золотая коллекция
 https://ucdn.beetv.kz/btv/live/hls/000006365.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-nature.png" tvg-id="viasat-nature", Viju nature
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-nature.png" tvg-id="viasat-nature", Viju nature
 https://ucdn.beetv.kz/btv/live/hls/000006482.m3u8
-#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zal-suda.png" tvg-id="zal-suda", Зал суда
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/zal-suda.png" tvg-id="zal-suda", Зал суда
 https://ucdn.beetv.kz/btv/live/hls/000006638.m3u8
-#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gags-network.png" tvg-id="gags-network", Gags Network
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gags-network.png" tvg-id="gags-network", Gags Network
 https://ucdn.beetv.kz/btv/live/hls/000006639.m3u8
-#EXTINF:0 type="stream" channelId="492" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dacha.png" tvg-id="dacha", Дача
+#EXTINF:0 type="stream" channelId="492" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dacha.png" tvg-id="dacha", Дача
 https://ucdn.beetv.kz/btv/live/hls/000006646.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2 KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2 KZ
 https://ucdn.beetv.kz/btv/live/hls/000006899.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-league.png" tvg-id="q-sport-ext", Q league
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-league.png" tvg-id="q-sport-ext", Q league
 https://ucdn.beetv.kz/btv/live/hls/000006969.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/insport.png" tvg-id="insport-kz", Insport
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/insport.png" tvg-id="insport-kz", Insport
 https://ucdn.beetv.kz/btv/live/hls/000006983.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1 KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1 KZ
 https://ucdn.beetv.kz/btv/live/hls/000006998.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turkistan.png" tvg-id="turkistan", Туркестан
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turkistan.png" tvg-id="turkistan", Туркестан
 https://ucdn.beetv.kz/btv/live/hls/000007248.m3u8
-#EXTINF:0 type="stream" channelId="2495" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qsport.png" tvg-id="qsport-kz", Qsport
+#EXTINF:0 type="stream" channelId="2495" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qsport.png" tvg-id="qsport-kz", Qsport
 https://ucdn.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:0 type="stream" channelId="5218" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/plan-b.png" tvg-id="plan-b", plan B
+#EXTINF:0 type="stream" channelId="5218" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/plan-b.png" tvg-id="plan-b", plan B
 https://ucdn.beetv.kz/btv/live/hls/000007625.m3u8
-#EXTINF:0 type="stream" channelId="5196" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/udar.png" tvg-id="ufc", Удар
+#EXTINF:0 type="stream" channelId="5196" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/udar.png" tvg-id="ufc", Удар
 https://ucdn.beetv.kz/btv/live/hls/000007802.m3u8
-#EXTINF:0 type="stream" channelId="5185" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/star-air.png" tvg-id="start-air", Start.Air
+#EXTINF:0 type="stream" channelId="5185" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/star-air.png" tvg-id="start-air", Start.Air
 https://ucdn.beetv.kz/btv/live/hls/000007815.m3u8
-#EXTINF:0 type="stream" channelId="1037" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/patnica-international.png" tvg-id="piantica-kz", Пятница! International
+#EXTINF:0 type="stream" channelId="1037" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/patnica-international.png" tvg-id="piantica-kz", Пятница! International
 https://ucdn.beetv.kz/btv/live/hls/000007816.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ KZ
 https://ucdn.beetv.kz/btv/live/hls/000007817.m3u8
-#EXTINF:0 type="stream" channelId="5186" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/start-world.png" tvg-id="start-world", Start.World
+#EXTINF:0 type="stream" channelId="5186" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/start-world.png" tvg-id="start-world", Start.World
 https://ucdn.beetv.kz/btv/live/hls/000007818.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/inhockey.png" tvg-id="inhockey-kz", Inhockey
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/inhockey.png" tvg-id="inhockey-kz", Inhockey
 https://ucdn.beetv.kz/btv/live/hls/000007832.m3u8
-#EXTINF:0 type="stream" channelId="16" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
+#EXTINF:0 type="stream" channelId="16" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
 https://ucdn.beetv.kz/btv/live/hls/000007833.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/taraz-24.png" tvg-id="taraz24-kz", Тараз 24
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/taraz-24.png" tvg-id="taraz24-kz", Тараз 24
 https://ucdn.beetv.kz/btv/live/hls/000007838.m3u8
-#EXTINF:0 type="stream" channelId="182" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tiji.png" tvg-id="tiji", Tiji
+#EXTINF:0 type="stream" channelId="182" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tiji.png" tvg-id="tiji", Tiji
 https://ucdn.beetv.kz/btv/live/hls/000008019.m3u8
-#EXTINF:0 type="stream" channelId="5216" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/big-planet.png" tvg-id="big-planet", Big Planet
+#EXTINF:0 type="stream" channelId="5216" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/big-planet.png" tvg-id="big-planet", Big Planet
 https://ucdn.beetv.kz/btv/live/hls/000008052.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazaqstan.png" tvg-id="qazaqstan-int", Qazaqstan int
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qazaqstan.png" tvg-id="qazaqstan-int", Qazaqstan int
 https://ucdn.beetv.kz/btv/live/hls/000008058.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/womens-magazine.png" tvg-id="womens-magazine", Women's Magazine
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/womens-magazine.png" tvg-id="womens-magazine", Women's Magazine
 https://ucdn.beetv.kz/btv/live/hls/000008065.m3u8
-#EXTINF:0 type="stream" channelId="5193" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sapfir.png" tvg-id="sapfir", Сапфир
+#EXTINF:0 type="stream" channelId="5193" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sapfir.png" tvg-id="sapfir", Сапфир
 https://ucdn.beetv.kz/btv/live/hls/000008135.m3u8
-#EXTINF:0 type="stream" channelId="5192" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kineko.png" tvg-id="kineko", Кинеко
+#EXTINF:0 type="stream" channelId="5192" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kineko.png" tvg-id="kineko", Кинеко
 https://ucdn.beetv.kz/btv/live/hls/000008136.m3u8
-#EXTINF:0 type="stream" channelId="5190" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/terra.png" tvg-id="terra-ru", Terra
+#EXTINF:0 type="stream" channelId="5190" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/terra.png" tvg-id="terra-ru", Terra
 https://ucdn.beetv.kz/btv/live/hls/000008142.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/intennis.png" tvg-id="intennis-kz", Intennis
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/intennis.png" tvg-id="intennis-kz", Intennis
 https://ucdn.beetv.kz/btv/live/hls/000008487.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mirovoe-kino.png" tvg-id="mirovoe-kino-kz", Мировое кино
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mirovoe-kino.png" tvg-id="mirovoe-kino-kz", Мировое кино
 https://ucdn.beetv.kz/btv/live/hls/000008488.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semejnoe-kino.png" tvg-id="semejnoe-kino-kz", Семейное кино
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semejnoe-kino.png" tvg-id="semejnoe-kino-kz", Семейное кино
 https://ucdn.beetv.kz/btv/live/hls/000008489.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png" tvg-id="kinoboevik-kz", Кино боевик
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png" tvg-id="kinoboevik-kz", Кино боевик
 https://ucdn.beetv.kz/btv/live/hls/000008490.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
 https://ucdn.beetv.kz/btv/live/hls/000008491.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr. KZ
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr. KZ
 https://ucdn.beetv.kz/btv/live/hls/000008575.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nowy-igrowoj.png" tvg-id="nowy-igrowoj", Новый игровой канал
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nowy-igrowoj.png" tvg-id="nowy-igrowoj", Новый игровой канал
 https://ucdn.beetv.kz/btv/live/hls/000008615.m3u8
-#EXTINF:0 type="stream" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/narod-vsio-vidit.png" tvg-id="narod-vsio-vidit", Народ Всё Видит
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/narod-vsio-vidit.png" tvg-id="narod-vsio-vidit", Народ Всё Видит
 https://ucdn.beetv.kz/btv/live/hls/000008614.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
 https://ucdn.beetv.kz/btv/live/hls/000008848.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-1.png", Q Live 1
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-1.png", Q Live 1
 https://ucdn.beetv.kz/btv/live/hls/000008725.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-2.png", Q Live 2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-2.png", Q Live 2
 https://ucdn.beetv.kz/btv/live/hls/000008726.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-3.png", Q Live 3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-3.png", Q Live 3
 https://ucdn.beetv.kz/btv/live/hls/000008445.m3u8
-#EXTINF:0 type="stream" channelId="-1" logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-4.png", Q Live 4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live-4.png", Q Live 4
 https://ucdn.beetv.kz/btv/live/hls/000008727.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/redbull-tv.png", Red Bull TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/redbull-tv.png", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-pro.png", TV PRO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv-pro.png", TV PRO
 http://rtmp.tvpro-online.ru/hls/ch1.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gubernia.png" tvg-id="gubernia-samara", Губерния
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gubernia.png" tvg-id="gubernia-samara", Губерния
 http://live.guberniatv.cdnvideo.ru/guberniatv/guberniatv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrasia.png" tvg-id="evrasia", Евразия
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/evrasia.png" tvg-id="evrasia", Евразия
 http://infochhdcdn.trkeurasia.ru/orsk-infochhd/infochhd/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png" tvg-id="ktk-kz", КТК
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ktk.png" tvg-id="ktk-kz", КТК
 http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kurai.png" tvg-id="kuraj", Курай
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kurai.png" tvg-id="kuraj", Курай
 http://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" shift="4" tvg-id="mir-pl4", Мир +4
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mir.png" shift="4" tvg-id="mir-pl4", Мир +4
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nadezhda.png" tvg-id="nadezhda", Надежда
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nadezhda.png" tvg-id="nadezhda", Надежда
 http://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nika-tv.png" tvg-id="nika-tv", Ника ТВ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nika-tv.png" tvg-id="nika-tv", Ника ТВ
 http://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntm.png" tvg-id="ntm", НТМ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntm.png" tvg-id="ntm", НТМ
 http://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png" tvg-id="rbk", РБК
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rbk.png" tvg-id="rbk", РБК
 http://92.50.128.180/utv/1358/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/izvestia.png" tvg-id="izvestia", Известия
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/izvestia.png" tvg-id="izvestia", Известия
 http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tri-angela.png" tvg-id="tri-angela", Три Ангела
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tri-angela.png" tvg-id="tri-angela", Три Ангела
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salam.png" tvg-id="salam", Салям
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salam.png" tvg-id="salam", Салям
 http://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sever.png" tvg-id="sever", Север
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sever.png" tvg-id="sever", Север
 http://live2.mediacdn.ru/sr1/sever/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/s1.png" tvg-id="s1-surgut", С1
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/s1.png" tvg-id="s1-surgut", С1
 https://sitv.ru/hls/stv1024.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/echo-tv.png" tvg-id="echotv", Эхо ТВ
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/echo-tv.png" tvg-id="echotv", Эхо ТВ
 http://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/strana-fm.png" tvg-id="radio-strana-fm-tv", Страна FM
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/strana-fm.png" tvg-id="radio-strana-fm-tv", Страна FM
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz", First Music Channel HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz", First Music Channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png", First Music Channel
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png", First Music Channel
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png", Ocko
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png", Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png", Ocko Expres music
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png", Ocko Expres music
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png", Ocko Gold
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png", Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/radio-van.png", Radio Van
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/radio-van.png", Radio Van
 http://stream.radiovan.fm/stream/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png" tvg-id="retro-music-cz", Retro Music
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png" tvg-id="retro-music-cz", Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV HD
 https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
-#EXTINF:0 logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
 #EXTINF:-1,News 24 HD
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000.m3u8
-#EXTINF:-1,One.by
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png",One.by
 http://rtmp.one.by:1200 
-#EXTINF:-1,One.by HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png",One.by HD
 http://rtmp.one.by:1300
