@@ -127,8 +127,6 @@ https://ucdn.beetv.kz/btv/live/hls/000000670.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000000672.m3u8
 #EXTINF:0 type="stream" channelId="2883" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cnn.png" tvg-id="cnn", CNN international
 https://ucdn.beetv.kz/btv/live/hls/000000707.m3u8
-#EXTINF:0 type="stream" channelId="913" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a1.png" tvg-id="amedia1", A1
-https://ucdn.beetv.kz/btv/live/hls/000000710.m3u8
 #EXTINF:0 type="stream" channelId="1945" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzzone.png" tvg-id="muzzone", Muzzone
 https://ucdn.beetv.kz/btv/live/hls/000000783.m3u8
 #EXTINF:0 type="stream" channelId="264" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="2" tvg-id="rtr-planeta-eu", РТР-Планета
