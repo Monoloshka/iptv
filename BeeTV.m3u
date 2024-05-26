@@ -345,7 +345,7 @@ https://ucdn.beetv.kz/btv/live/hls/000006998.m3u8
 https://ucdn.beetv.kz/btv/live/hls/000007248.m3u8
 #EXTINF:0 type="stream" channelId="2495" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/qsport.png" tvg-id="qsport-kz", Qsport
 https://ucdn.beetv.kz/btv/live/hls/000007615.m3u8
-#EXTINF:0 type="stream" channelId="5218" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/plan-b.png" tvg-id="plan-b", plan B
+#EXTINF:0 type="stream" channelId="5218" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/plan-b.png" tvg-id="plan-b", plan_B
 https://ucdn.beetv.kz/btv/live/hls/000007625.m3u8
 #EXTINF:0 type="stream" channelId="5196" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/udar.png" tvg-id="ufc", Удар
 https://ucdn.beetv.kz/btv/live/hls/000007802.m3u8
