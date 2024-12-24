@@ -35,11 +35,11 @@ http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/chunklist_b2600000
 http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz", First Music Channel HD
 http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png", First Music Channel
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz", First Music Channel
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png", Ocko
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png" tvg-id="ocko-cz", Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png", Ocko Expres music
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png" tvg-id="ocko-expres-cz", Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png", Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
@@ -53,5 +53,5 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png",One.by HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz",One.by HD
 http://rtmp.one.by:1300
