@@ -195,8 +195,6 @@ https://ucdn.beetv.kz/bpk-tv/000001248/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001377/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="2521" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/novoe-televidenie.png" tvg-id="novoe-televidenie", Новое Телевидение
 https://ucdn.beetv.kz/bpk-tv/000001380/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="2884" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/gakku.png" tvg-id="gakku", Gakku TV
-https://ucdn.beetv.kz/bpk-tv/000001383/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/turan.png" tvg-id="turan-tv", Turan TV
 https://ucdn.beetv.kz/bpk-tv/000001404/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="4646" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/glazami-turista.png" tvg-id="glazami-turista", Глазами туриста
