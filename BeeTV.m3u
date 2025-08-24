@@ -107,7 +107,7 @@ https://ucdn.beetv.kz/bpk-tv/000000319/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000327/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="391" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/galaxy.png" tvg-id="galaxy-tv", Тайны галактики
 https://ucdn.beetv.kz/bpk-tv/000000332/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="171" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/da-vinci.png" tvg-id="da-vinci", Da Vinci Learning
+#EXTINF:0 type="stream" channelId="171" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/da-vinci.png" tvg-id="da-vinci", Da Vinci
 https://ucdn.beetv.kz/bpk-tv/000000333/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="914" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/a2.png" tvg-id="amedia2", A2
 https://ucdn.beetv.kz/bpk-tv/000000351/tve/index.m3u8
@@ -235,7 +235,7 @@ https://ucdn.beetv.kz/bpk-tv/000001661/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001662/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/aqjaiyq.png" tvg-id="aqjaiyq", Aqjaiyq
 https://ucdn.beetv.kz/bpk-tv/000001689/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/match-tv.png" tvg-id="match-tv", Матч! планета
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/match-planeta.png" tvg-id="match-planeta", Матч! планета
 https://ucdn.beetv.kz/bpk-tv/000001695/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/centralnoye-tv.png" tvg-id="centralnoye-tv", Центральное ТВ
 https://ucdn.beetv.kz/bpk-tv/000001880/tve/index.m3u8
