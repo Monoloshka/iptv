@@ -60,7 +60,7 @@ https://ucdn.beetv.kz/bpk-tv/000000152/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="1305" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoonito.png" tvg-id="boomerang", cartoonito
 https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzhskoe-kino.png" tvg-id="muzhskoe-kino", Мужское кино
-https://ucdn.beetv.kz/bpk-tv/000000160/tve/index.m3u8
+https://ucdn.beetv.kz/bpk-tv/000000171/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="182" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tiji.png" tvg-id="tiji", Tiji
 https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="250" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/voprosy-otvety.png" tvg-id="voprosy-i-otvety", Вопросы и ответы
