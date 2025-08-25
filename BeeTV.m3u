@@ -452,7 +452,7 @@ https://ucdn.beetv.kz/bpk-tv/000008727/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sport-plus.png" tvg-id="sport-plus", Sport+
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="394" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntk.png"tvg-id="ntk-kz", НТК
-https://ucdn.beetv.kz/btvz/bpk-tv/000008733.m3u8
+https://ucdn.beetv.kz/btvz/bpk-tv/000008733/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/suspense.png" tvg-id="suspense", Suspense
 https://ucdn.beetv.kzz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/romance.png" tvg-id="romance", Romance
