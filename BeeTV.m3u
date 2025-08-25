@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 type="stream" channelId="510" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
+https://ucdn.beetv.kz/bpk-tv/100006592/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="193" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="162" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/t24.png" tvg-id="texno-24", Т24
