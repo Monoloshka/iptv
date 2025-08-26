@@ -267,7 +267,7 @@ https://ucdn.beetv.kz/bpk-tv/000002711/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002721/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="3162" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-pravo.png" tvg-id="ntv-pravo", НТВ право
 https://ucdn.beetv.kz/bpk-tv/000002759/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="3160" catchup="shift" catchup-days="1" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8?start={offset}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-serial.png" tvg-id="ntv-serial", НТВ сериал
+#EXTINF:0 type="stream" channelId="3160" catchup="shift" catchup-days="1" catchup-source="https://cdn.example.net/live/ch2/index.m3u8?start={offset}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-serial.png" tvg-id="ntv-serial", НТВ сериал
 https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="3161" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ntv-stil.png" tvg-id="ntv-style", НТВ стиль
 https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
@@ -413,7 +413,7 @@ https://ucdn.beetv.kz/bpk-tv/000007815/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="5186" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/start-world.png" tvg-id="start-world", Start.World
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
+#EXTINF:0 type="stream"  catchup="default" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8?begin=${start}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/lyova.png" tvg-id="lyova", Лёва
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
@@ -517,6 +517,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz",One.by HD
 http://rtmp.one.by:1300
+
 
 
 
