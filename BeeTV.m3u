@@ -377,7 +377,7 @@ https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/balapan.png" tvg-id="balapan", Balapan
 https://ucdn.beetv.kz/bpk-tv/000005178/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinouzhas.png" tvg-id="kinouzhas", Киноужас
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinouzhas.png" tvg-id="kinouzhas-int", Киноужас
 https://ucdn.beetv.kz/bpk-tv/000005279/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/atameken-business.png" tvg-id="atameken-business", Atameken bussiness channel
 https://ucdn.beetv.kz/bpk-tv/000005322/tve/index.m3u8
