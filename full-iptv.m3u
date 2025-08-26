@@ -51,7 +51,7 @@ https://ucdn.beetv.kz/bpk-tv/000000112/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000125/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="5171" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/sci-fi.png" tvg-id="sony-scifi", .sci-fi
 https://ucdn.beetv.kz/bpk-tv/000000134/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju%2Bsport.png" tvg-id="viasat-sport", Viju+ Sport
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju%2Bsport.png" tvg-id="viasat-sport", Viju+ Sport
 https://ucdn.beetv.kz/bpk-tv/000000135/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinokomedia.png" tvg-id="kinokomedia", Кинокомедия
 https://ucdn.beetv.kz/bpk-tv/000000140/tve/index.m3u8
@@ -67,7 +67,7 @@ https://ucdn.beetv.kz/bpk-tv/000000171/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000174/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="250" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/voprosy-otvety.png" tvg-id="voprosy-i-otvety", Вопросы и ответы
 https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="10" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-24.png" tvg-id="rossia-24", Россия 24
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="10" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-24.png" tvg-id="rossia-24", Россия 24
 https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000202/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="51" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/english-club-tv.png" tvg-id="english-club-tv", English Club TV
 https://ucdn.beetv.kz/bpk-tv/000000202/tve/index.m3u8
@@ -157,7 +157,7 @@ https://ucdn.beetv.kz/bpk-tv/000000711/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000781/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="1945" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzzone.png" tvg-id="muzzone", Muzzone
 https://ucdn.beetv.kz/bpk-tv/000000783/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="264" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="2" tvg-id="rtr-planeta-eu", РТР-Планета
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="264" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/rossia-rtr.png" tvg-shift="2" tvg-id="rtr-planeta-eu", РТР-Планета
 https://ucdn.beetv.kz/bpk-tv/000000812/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="1282" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/auto-24.png" tvg-id="avto24", Авто 24
 https://ucdn.beetv.kz/bpk-tv/000000815/tve/index.m3u8
@@ -187,7 +187,7 @@ https://ucdn.beetv.kz/bpk-tv/000001187/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000001207/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="2526" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/hit-tv.png" tvg-id="hit-tv", Hit TV
 https://ucdn.beetv.kz/bpk-tv/000001213/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal.png" tvg-id="pervy", Первый канал
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/perviy-kanal.png" tvg-id="pervy", Первый канал
 https://ucdn.beetv.kz/bpk-tv/000001227/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000001243/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/box-tv.png" tvg-id="box-tv", Бокс ТВ
 https://ucdn.beetv.kz/bpk-tv/000001243/tve/index.m3u8
@@ -251,7 +251,7 @@ https://ucdn.beetv.kz/bpk-tv/000002455/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002472/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="82" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport1.png" tvg-id="eurosport1", Eurosport 1
 https://ucdn.beetv.kz/bpk-tv/000002478/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="83" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport2.png" tvg-id="eurosport2", Eurosport 2
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="83" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/eurosport2.png" tvg-id="eurosport2", Eurosport 2
 https://ucdn.beetv.kz/bpk-tv/000002479/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="221" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ohota-i-rybalka.png" tvg-id="oxota-i-rybalka", Охота и рыбалка
 https://ucdn.beetv.kz/bpk-tv/000002510/tve/index.m3u8
@@ -275,15 +275,15 @@ https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="1569" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/77-tv.png" tvg-id="77tv-kz", 77 TV
 https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinopremiera.png" tvg-id="kinopremiera", Кинопремьера
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinopremiera.png" tvg-id="kinopremiera", Кинопремьера
 https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="77" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt4.png" tvg-id="tnt4-international", ТНТ4
 https://ucdn.beetv.kz/bpk-tv/000002926/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3294" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/o.png" tvg-id="o_", O!
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3294" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/o.png" tvg-id="o_", O!
 https://ucdn.beetv.kz/bpk-tv/000002928/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4846" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/toy-duman.png" tvg-id="toy-duman", Той Думан
 https://ucdn.beetv.kz/bpk-tv/000002936/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino-premium.png" tvg-id="domkino-premium", Дом кино Premium
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/dom-kino-premium.png" tvg-id="domkino-premium", Дом кино Premium
 https://ucdn.beetv.kz/bpk-tv/000002943/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3295" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/poehali.png" tvg-id="poexali", Поехали!
 https://ucdn.beetv.kz/bpk-tv/000002991/tve/index.m3u8
@@ -355,23 +355,23 @@ https://ucdn.beetv.kz/bpk-tv/000004471/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000004472/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="164" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/nat-geo-wild.png" tvg-id="nat-geo-wild", Nat Geo Wild
 https://ucdn.beetv.kz/bpk-tv/000004474/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4848" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinohit.png" tvg-id="kinohit", Кинохит
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4848" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinohit.png" tvg-id="kinohit", Кинохит
 https://ucdn.beetv.kz/bpk-tv/000004485/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4848" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-1-kz.png" tvg-id="setanta-sports", Setanta Sports 1
 https://ucdn.beetv.kz/bpk-tv/000004498/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4849" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-2-kz.png" tvg-id="setanta-sports-plus", Setanta Sports 2
 https://ucdn.beetv.kz/bpk-tv/000004499/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3922" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pobeda.png" tvg-id="pobeda", Победа
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3922" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/pobeda.png" tvg-id="pobeda", Победа
 https://ucdn.beetv.kz/bpk-tv/000004534/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="190" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/illuzion+.png" tvg-id="illuzion-plus", Иллюзион+
 https://ucdn.beetv.kz/bpk-tv/000004582/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="159" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kluch.png" tvg-id="kluch", Ключ
 https://ucdn.beetv.kz/bpk-tv/000004585/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinosemia.png"  tvg-id="kinosemia", Киносемья
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinosemia.png"  tvg-id="kinosemia", Киносемья
 https://ucdn.beetv.kz/bpk-tv/000004633/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004634/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoseria.png" tvg-id="kinoseria", Киносерия
 https://ucdn.beetv.kz/bpk-tv/000004634/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv3-international.png" tvg-id="tv3-int", ТВ3 International
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv3-international.png" tvg-id="tv3-int", ТВ3 International
 https://ucdn.beetv.kz/bpk-tv/000004712/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="2525" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/24-kz.png" tvg-id="xabar24", 24 KZ
 https://ucdn.beetv.kz/bpk-tv/000005177/tve/index.m3u8
@@ -387,7 +387,7 @@ https://ucdn.beetv.kz/bpk-tv/000005449/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000005450/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/viju-history.png" tvg-id="viasat-history", Viju History
 https://ucdn.beetv.kz/bpk-tv/000005528/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/abai-tv.png" tvg-id="abaitv", ABAI TV
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/abai-tv.png" tvg-id="abaitv", ABAI TV
 https://ucdn.beetv.kz/bpk-tv/000006116/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="4908" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mosfilm-zolotaya-kollekcia.png" tvg-id="mosfilm", Мосфильм. Золотая коллекция
 https://ucdn.beetv.kz/bpk-tv/000006365/tve/index.m3u8
@@ -429,13 +429,13 @@ https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008445/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-live.png" tvg-id="q-live", Q Live
 https://ucdn.beetv.kz/bpk-tv/000008445/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mirovoe-kino.png" tvg-id="mirovoe-kino-kz", Мировое кино
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/mirovoe-kino.png" tvg-id="mirovoe-kino-kz", Мировое кино
 https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semejnoe-kino.png" tvg-id="semejnoe-kino-kz", Семейное кино
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/semejnoe-kino.png" tvg-id="semejnoe-kino-kz", Семейное кино
 https://ucdn.beetv.kz/bpk-tv/000008489/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png" tvg-id="kinoboevik-kz", Кино боевик
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/kinoboevik.png" tvg-id="kinoboevik-kz", Кинобоевик
 https://ucdn.beetv.kz/bpk-tv/000008490/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/premium-kino.png" tvg-id="premium-kino-kz", Премиум кино
 https://ucdn.beetv.kz/bpk-tv/000008491/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/lapki-live.png" tvg-id="lapki-live", Лапки Live
 https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
@@ -459,7 +459,7 @@ https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoon-classics.png" tvg-id="cartoon-classics", Cartoon Classics
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
 https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="7" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salemalem.png" tvg-id="salemalem", Sälem, älem!
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
@@ -517,6 +517,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz",One.by HD
 http://rtmp.one.by:1300
+
 
 
 
