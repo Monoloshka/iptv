@@ -415,7 +415,7 @@ https://ucdn.beetv.kz/bpk-tv/000007816/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 #EXTINF:0 type="stream"  tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt.png" tvg-id="tnt-kz", ТНТ
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/lyova.png" tvg-id="lyova", Лёва
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/lyova.png" tvg-id="liova", Лёва
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="5216" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/big-planet.png" tvg-id="big-planet", Big Planet
 https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
