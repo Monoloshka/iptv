@@ -71,7 +71,7 @@ https://ucdn.beetv.kz/bpk-tv/000000195/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000198/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000202/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="51" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/english-club-tv.png" tvg-id="english-club-tv", English Club TV
 https://ucdn.beetv.kz/bpk-tv/000000202/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/multilandia.png" tvg-id="multilandia", Мультиландия
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/multilandia.png" tvg-id="multimania", Мультиландия
 https://ucdn.beetv.kz/bpk-tv/000000203/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="148" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/muzika-pervogo.png" tvg-id="muzyka-pervogo", Музыка первого
 https://ucdn.beetv.kz/bpk-tv/000000204/tve/index.m3u8
