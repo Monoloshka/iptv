@@ -461,7 +461,7 @@ https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/q-football-kz.png" tvg-id="q-football-kz", Q Football
 https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salemalem.png" tvg-id="salemalem", Sälem, älem!
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/salemalem.png" tvg-id="salemalem-kz", Sälem, älem!
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/appetitny.png" tvg-id="appetitny", Аппетитный
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
