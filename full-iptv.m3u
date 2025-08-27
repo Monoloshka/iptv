@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://github.com/Monoloshka/iptv/blob/main/epgm.xml"
+#EXTM3U x-tvg-url="https://github.com/Monoloshka/iptv/blob/main/epgm.xml.gz"
 #EXTINF:0 type="stream" catchup="shift" channelId="510" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
 https://ucdn.beetv.kz/bpk-tv/100006592/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="193" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
@@ -517,6 +517,7 @@ https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz",One.by HD
 http://rtmp.one.by:1300
+
 
 
 
