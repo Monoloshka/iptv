@@ -1,13 +1,13 @@
 #EXTM3U x-tvg-url="https://github.com/Monoloshka/iptv/raw/refs/heads/main/epgm.xml"
-#EXTINF:0 type="stream" catchup="shift" channelId="510" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
+#EXTINF:0 type="stream" tvg-country="KZ" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/info-kanal.png", Инфоканал
 https://ucdn.beetv.kz/bpk-tv/100006592/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="193" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tv21.png" tvg-id="tvxxi", ТВ21
 https://ucdn.beetv.kz/bpk-tv/000000006/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" channelId="162" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/t24.png" tvg-id="texno-24", Т24
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/t24.png" tvg-id="texno-24", Т24
 https://ucdn.beetv.kz/bpk-tv/000000008/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="24" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt-music.png" tvg-id="tnt-music", ТНТ Music
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/tnt-music.png" tvg-id="tnt-music", ТНТ Music
 https://ucdn.beetv.kz/bpk-tv/000000013/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="118" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bbc-news.png" tvg-id="bbc", BBC World News
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/bbc-news.png" tvg-id="bbc", BBC World News
 https://ucdn.beetv.kz/bpk-tv/000000014/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" channelId="40" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/cartoon-network.png" tvg-id="cartoon-network", Cartoon Network
 https://ucdn.beetv.kz/bpk-tv/000000015/tve/index.m3u8
@@ -505,18 +505,19 @@ http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz", First Music Channel
 http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png" tvg-id="ocko-cz", Ocko
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko.png" tvg-id="ocko-cz" tvg-country="CZ", Ocko
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png" tvg-id="ocko-expres-cz", Ocko Expres
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-express.png" tvg-id="ocko-expres-cz" tvg-country="CZ", Ocko Expres
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png", Ocko Gold
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ocko-gold.png" tvg-country="CZ", Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/retro-music.png" tvg-id="retro-music-cz", Retro Music
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv", RU TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/ru-tv.png" tvg-id="ru-tv" tvg-country="RU", RU TV
 https://hls-03-video.webcaramba.com/rutv/live.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/first-music-channel.png" tvg-id="onemuz",One.by HD
 http://rtmp.one.by:1300
+
 
 
 
