@@ -131,7 +131,7 @@ https://ucdn.beetv.kz/bpk-tv/000000499/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000520/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/eda-hd-int.png" tvg-id="eda-hd-int", Еда премиум международный
 https://ucdn.beetv.kz/bpk-tv/000000588/tve/index.m3u8
-#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7.png" tvg-id="7kanal-kz" tvg-country="KZ", Седьмой канал
+#EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7kanal-kz.png" tvg-id="7kanal-kz" tvg-country="KZ", Седьмой канал
 https://ucdn.beetv.kz/bpk-tv/000000659/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/31.png" tvg-id="31-kanal-kz" tvg-country="KZ", 31 канал
 https://ucdn.beetv.kz/bpk-tv/000000663/tve/index.m3u8
@@ -543,3 +543,4 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ru-tv.png" tvg-id="ru-tv" tvg-country="RU", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+
