@@ -273,7 +273,7 @@ https://ucdn.beetv.kz/bpk-tv/000002760/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000002761/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8?begin=${start}&end=${timestamp}" channelId="3556" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/v-gostiax-u-skazki.png" tvg-id="v-gostiax-u-skazki" tvg-country="RU", В гостях у сказки
 https://ucdn.beetv.kz/bpk-tv/000002762/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="1569" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/77tv-kz.png" tvg-id="77tv-kz" tvg-country="KZ" tvg-country="KZ", 77 TV
+#EXTINF:0 type="stream" channelId="1569" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/77tv-kz.png" tvg-id="77tv-kz" tvg-country="KZ", 77 TV
 https://ucdn.beetv.kz/bpk-tv/000002851/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kinopremiera-hd.png" tvg-id="kinopremiera-hd", Кинопремьера
 https://ucdn.beetv.kz/bpk-tv/000002864/tve/index.m3u8
@@ -543,4 +543,3 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ru-tv.png" tvg-id="ru-tv" tvg-country="RU", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
-
