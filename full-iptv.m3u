@@ -465,7 +465,7 @@ https://ucdn.beetv.kz/bpk-tv/000008848/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008864/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/appetitny.png" tvg-id="appetitny", Аппетитный
 https://ucdn.beetv.kz/bpk-tv/000008877/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/koktem.png" tvg-id="koktem" tvg-country="KZ", Köktem
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/koktem-kz.png" tvg-id="koktem-kz" tvg-country="KZ", Köktem
 https://ucdn.beetv.kz/bpk-tv/000008934/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/show-kz.png" tvg-id="show-kz" tvg-country="KZ", Show kz
 https://ucdn.beetv.kz/bpk-tv/000008944/tve/index.m3u8
@@ -543,4 +543,5 @@ https://hls-03-video.webcaramba.com/rutv/live_720/index.m3u8
 https://hls-03-video.webcaramba.com/rutv/live_480/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ru-tv.png" tvg-id="ru-tv" tvg-country="RU", RU TV
 https://hls-03-video.webcaramba.com/rutv/live_360/index.m3u8
+
 
