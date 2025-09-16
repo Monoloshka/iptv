@@ -9,3 +9,5 @@ full-iptv.m3u это объеденнёный плейлист BeeTV.m3u и tv.m
 файл full-iptv-old.m3u это объеденнёный плейлист BeeTV.m3u и tv.m3u включающие себя удаленные телеканалы из плейлистов связи с их неработоспособностью.
 
 Программа телепередач взята с сайта epg.iptvx.one
+
+В случаи интернет-шатдауна если у Beeline KZ диапазон ip 10.*.*.* останется доступен но DNS не будет работать то я рекомендую содержимое файла [hosts](https://github.com/Monoloshka/iptv/raw/refs/heads/main/hosts) добавить в конец файла C:\Windows\System32\drivers\etc\hosts
