@@ -10,4 +10,4 @@ full-iptv.m3u это объеденнёный плейлист BeeTV.m3u и tv.m
 
 Программа телепередач взята с сайта epg.iptvx.one
 
-В случаи интернет-шатдауна если у Beeline KZ диапазон ip 10.*.*.* останется доступен но DNS не будет работать то я рекомендую содержимое файла [hosts](https://github.com/Monoloshka/iptv/raw/refs/heads/main/hosts) добавить в конец файла C:\Windows\System32\drivers\etc\hosts
+В случаи интернет-шатдауна если у Beeline KZ диапазон ip 10.0.0.0/8 останется доступен но DNS не будет работать то я рекомендую содержимое файла [hosts](https://github.com/Monoloshka/iptv/raw/refs/heads/main/hosts) добавить в конец файла C:\Windows\System32\drivers\etc\hosts
