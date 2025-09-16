@@ -11,3 +11,5 @@ full-iptv.m3u это объеденнёный плейлист BeeTV.m3u и tv.m
 Программа телепередач взята с сайта epg.iptvx.one
 
 В случаи интернет-шатдауна если у Beeline KZ диапазон ip 10.0.0.0/8 останется доступен но DNS не будет работать то я рекомендую содержимое файла [hosts](https://github.com/Monoloshka/iptv/raw/refs/heads/main/hosts) добавить в конец файла C:\Windows\System32\drivers\etc\hosts а после интернет-шатдауна по желанию убрать
+
+В случаи интернет-шатдауна если у вас стоит OpenWRT на роутере вы можете добавить содержимое файла [dnsmasq.conf](https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/dnsmasq.conf) в файл /etc/dnsmasq.conf через программу WinSCP а после интернет-шатдауна по желанию убрать
