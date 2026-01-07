@@ -545,3 +545,11 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kultura.png" tvg-id="kultura" tvg-country="RU", Россия К
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/9kanal-israel.png" tvg-id="9kanal-israel", 9 канал (Израиль)
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/9kanal-israel.png" tvg-id="9kanal-israel", 9 канал (Израиль)
+https://contact.gostreaming.tv/Con-11/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/abaitv.png" tvg-id="abaitv" tvg-country="KZ", ABAI TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/abaitv.png" tvg-id="abaitv" tvg-country="KZ", ABAI TV
+https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v1a1/mono.ts.m3u8
