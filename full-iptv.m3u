@@ -577,11 +577,12 @@ https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_2600k.m3u8
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_1400k.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_600k.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
 https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png",	Arirang Radio
 https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
+
