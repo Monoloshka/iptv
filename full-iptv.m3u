@@ -553,3 +553,35 @@ https://contact.gostreaming.tv/Con-11/tracks-v1a1/mono.ts.m3u8
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/abaitv.png" tvg-id="abaitv" tvg-country="KZ", ABAI TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/tracks-v1a1/mono.ts.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/aist.png" tvg-id="aist" tvg-country="RU", Аист
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/al-jazeera.png" tvg-id="al-jazeera", Al Jazeera
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/720.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/576.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/360.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/240.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/almazny-kray.png" tvg-id="almazny-kray" tvg-country="RU", Алмазный край
+https://stream.almaz-media.tv/hls/144.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_2600k.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_1400k.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
+https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_600k.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang
+https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
