@@ -150,7 +150,7 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/belarus3.png" tvg-id="belarus3", Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/brianskaya-gubernia.png" tvg-id="brianskaya-gubernia" tvg-country="RU", Брянская Губерния
-https://online.guberniya.tv/hls. /gub_3500K/Guberniya_HD_3500K
+https://online.guberniya.tv/hls/gub_3500K/Guberniya_HD_3500K.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/bst.png" tvg-id="bst" tvg-country="RU", Башкирское спутниковое телевидение
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tamyr.png" tvg-id="tamyr" tvg-country="RU", Тамыр
@@ -163,4 +163,5 @@ https://cdn.bst.bratsk.ru/hls/bst2/hd/stream.m3u8
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png" tvg-id="gnc", GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
+
 
