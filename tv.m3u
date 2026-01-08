@@ -155,7 +155,7 @@ https://online.guberniya.tv/hls. /gub_3500K/Guberniya_HD_3500K
 https://bsttv.bonus-tv.ru/cdn/bst/playlist_sdhigh.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tamyr.png" tvg-id="tamyr" tvg-country="RU", Тамыр
 https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/bst-bratsk..png" tvg-id="bst-bratsk" tvg-country="RU", БСТ24
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/bst-bratsk.png" tvg-id="bst-bratsk" tvg-country="RU", БСТ24
 https://cdn.bst.bratsk.ru/hls/bst2/fhd/stream.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/bst-bratsk.png" tvg-id="bst-bratsk" tvg-country="RU", БСТ24
 https://cdn.bst.bratsk.ru/hls/bst2/hd/stream.m3u8
@@ -163,3 +163,4 @@ https://cdn.bst.bratsk.ru/hls/bst2/hd/stream.m3u8
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png" tvg-id="gnc", GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
+
