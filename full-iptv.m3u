@@ -623,6 +623,90 @@ https://cdn.bst.bratsk.ru/hls/bst2/hd/stream.m3u8
 https://cdn.bst.bratsk.ru/hls/bst2/sd/stream.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png" tvg-id="gnc", GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/detkinoint-tviksel.png" tvg-id="detkinoint-tviksel" tvg-country="RU", Детское кино International
+https://v2.catcast.tv/content/38720/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7-tv.png" tvg-id="7-tv" tvg-country="RU", 7 TV
+https://v4.proofix.ru/7tv-live/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/luxury-hd.png" tvg-id="luxury-hd" tvg-country="RU", Luxury HD
+https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pulse-dance-music-channel.png", Pulse Dance Music Channel
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/2/dancetelevisionfive.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rtd-en.png", RTД English
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rt-espanol.png", RT Espanol
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rt-france.png", RT France
+https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rt-news.png", RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tv-brics.png" tvg-id="tv-brics", TV BRICS
+https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tv-guberniya.png" tvg-id="tv-guberniya", TV Губерния
+https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tvmchannel.png" tvg-id="tvmchannel", TVM Channel
+https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/univer-tv.png" tvg-id="univer-tv", Univer TV
+https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tro.png" tvg-id="tro", БелРос
+https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/vitrina_tv.png" tvg-id="vitrina_tv", Витрина ТВ
+https://v4.proofix.ru/vitrina-live/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/volga.png" tvg-id="volga", Волга
+https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/volga-24.png" tvg-id="volga-24", Волга 24
+https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rgvk-dagestan.png" tvg-id="rgvk-dagestan", РГВК Дагестан
+https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/zvezda.png" tvg-id="zvezda" tvg-country="RU", Звезда
+https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kabbala-tv.png" tvg-id="kabbala-tv", Каббала ТВ
+https://edge3.uk.kab.tv/live/tvrus-rus-high/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/krasnodar.png" tvg-id="krasnodar" tvg-country="RU", Краснодар
+https://live-tvkrasnodar-soc.cdnvideo.ru/tvkrasnodar-soc/social/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy-krymsky.png" tvg-id="pervy-krymsky", Первый крымский
+https://cdn.1tvcrimea.ru/1tvcrimea.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/krym24.png" tvg-id="krym24", Крым 24
+https://cdn.1tvcrimea.ru/switcher.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/luch-yanao.png" tvg-id="luch-yanao", Луч ТРК
+https://luch.iptv2022.com/tracks-v1a1/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mamonttv.png" tvg-id="mamonttv", Мамонт ТВ
+https://live-saha.cdnvideo.ru/saha2/mamont_live.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mordovia-24.png" tvg-id="mordovia-24" tvg-country="RU", Мордовия 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mtv-volgograd.png" tvg-id="mtv-volgograd" tvg-country="RU", МТВ Волгоград
+https://hls-volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/saxa.png" tvg-id="saxa" tvg-country="RU", НВК Саха
+https://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/nn-24.png" tvg-id="nn-24" tvg-country="RU", Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24-khl/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/perpetmobile.png" tvg-id="perpetmobile", Перпетуум мобиле
+https://wonder-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/radio-shanson.png" tvg-id="radio-shanson", Радио Шансон
+https://chanson-video.hostingradio.ru/hls/chansonabr/live.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ramenskoe-tv.png" tvg-id="ramenskoe-tv", Раменское ТВ
+https://e10-ll.facecast.net/rtv/0.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/slavyanskiy-mir.png" tvg-id="slavyanskiy-mir", Славянский мир
+https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sochi24.png" tvg-id="sochi24" tvg-country="RU", Сочи 24
+https://serv30.vintera.tv/sochi/sochi24_tv/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tv-in.png" tvg-id="tv-in", ТВ ИН
+https://live.tv-in.ru/hls/stream/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tvk-krasnoyarsk.png" tvg-id="tvk-krasnoyarsk" tvg-country="RU", ТВК Красноярск
+https://air.tvk6.ru/tvk24/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/teledom.png" tvg-id="teledom", Теледом
+https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/teotv.png" tvg-id="teotv", Тео ТВ
+https://stream.teotv.ru/live/site360/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tivikom.png" tvg-id="tivikom", Тивиком
+https://stream.trafjam.ru/tvcom/studio/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/trk-ryazan.png" tvg-id="trk-ryazan" tvg-country="RU", ТКР Рязань
+https://live-tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tolyatti24.png" tvg-id="tolyatti24" tvg-country="RU", Тольятти 24
+https://tvtogliatti24.ru/hls/live1080/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/yugra.png" tvg-id="yugra" tvg-country="RU", Югра
+https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/union.png" tvg-id="union", Первый Республиканский
+https://streaming.televizor-24-tochka.ru/live/27.m3u8
 
 
 
