@@ -575,14 +575,6 @@ https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_2600k.m3u8
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_1400k.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/antena1hd-ro.png" tvg-id="antena1hd-ro" tvg-country="RO", Antena 1 (Румыния)
 https://live1ag.antenaplay.ro/live_a1ro/live_a1ro_600k.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
-https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
-https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
-https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png",	Arirang Radio
-https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arxyz24.png" tvg-id="arxyz24" tvg-country="RU", Архыз 24
 https://arhiz24.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arxyz24.png" tvg-id="arxyz24" tvg-country="RU", Архыз 24
@@ -727,6 +719,14 @@ https://n1.slavmir.tv/live/ngrp:Cinegy.stream_all/playlist.m3u8
 https://svarozhichi.cdn-04.cosmonova.net.ua/mobile-app/main/svarozhichi/master.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/al-jazeera.png" tvg-id="al-jazeera", Al Jazeera
 https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
+https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png" tvg-id="arirang",	Arirang Korea
+https://amdlive-ch03-ctnd-com.akamaized.net/arirang_3ch/smil:arirang_3ch.smil/playlist.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arirang.png",	Arirang Radio
+https://amdlive-ch04-ctnd-com.akamaized.net/arirang_4ch/smil:arirang_4ch.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/katun-24.png" tvg-id="katun-24", Катунь 24
 https://live.katun24.ru:8082/123/123/video.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kaskad24.png" tvg-id="kaskad24", Каскад-24
