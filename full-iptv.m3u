@@ -615,15 +615,15 @@ https://tvtogliatti24.ru/hls/live1080/index.m3u8
 https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/deutsche-welle-ru.png" tvg-id="deutsche-welle-ru", Deutsche Welle
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/dozhd.png" tvg-id="	dozhd", Дождь
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/dozhd.png" tvg-id="dozhd", Дождь
 https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kongresstv.png" tvg-id="kongresstv", 	Конгресс ТВ
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/kongresstv.png" tvg-id="kongresstv", Конгресс ТВ
 https://stitch.teletarget.ru/api/v1/hls/504/158/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/novy-vek-tambov.png" tvg-id="novy-vek-tambov" tvg-country="RU",  Новый век (Тамбов)
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/novy-vek-tambov.png" tvg-id="novy-vek-tambov" tvg-country="RU", Новый век (Тамбов)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ntrk-ingushetia.png" tvg-id="ntrk-ingushetia" tvg-country="RU", Магас
 https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy.png" tvg-id="pervy",  Первый канал
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy.png" tvg-id="pervy", Первый канал
 https://pkvc-hls7.cdnvideo.ru/pkvc/pk/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/pervy-rostovsky.png" tvg-id="pervy-rostovsky" tvg-country="RU", Первый Ростовский
 https://rost.mediacdn.ru/cdn/rostov1/playlist.m3u8
@@ -641,3 +641,4 @@ https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/belarus3.png" tvg-id="belarus3", Беларусь 3
 https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
+
