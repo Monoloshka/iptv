@@ -426,7 +426,7 @@ https://ucdn.beetv.kz/bpk-tv/000008733/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008739/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/romance.png" tvg-id="romance", Romance
 https://ucdn.beetv.kz/bpk-tv/000008780/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="4841" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-sports-kz.png" tvg-id="setanta-plus-kz", Setanta sport KZ+
+#EXTINF:0 type="stream" channelId="4841" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/main/logo/setanta-plus-kz.png" tvg-id="setanta-plus-kz", Setanta sport KZ+
 https://ucdn.beetv.kz/bpk-tv/000008786/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/cartoon-classics.png" tvg-id="cartoon-classics", Cartoon Classics
 https://ucdn.beetv.kz/bpk-tv/000008795/tve/index.m3u8
