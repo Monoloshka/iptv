@@ -81,7 +81,7 @@ https://ucdn.beetv.kz/bpk-tv/000000239/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="167" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/zoopark.png" tvg-id="zoopark", ZOOпарк
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/vh1-european.png" tvg-id="vh1-european", MTV 00s
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/vh1-european.png", MTV 00s
 https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/lubimoe-kino.png" tvg-id="lubimoe-kino", Любимое кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
