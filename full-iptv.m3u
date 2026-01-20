@@ -555,7 +555,7 @@ https://stream.almaz-media.tv/hls/144.m3u8
 https://arhiz24.mediacdn.ru/sr1/arhis24/playlist_sdlow.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png", GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7-tv.png" tvg-id="7-tv" tvg-country="RU", 7 TV
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7-tv.png" tvg-id="7tv" tvg-country="RU", 7 TV
 https://v4.proofix.ru/7tv-live/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/luxury-hd.png" tvg-id="luxury-hd" tvg-country="RU", Luxury HD
 https://s1.tv-nano.com/Luxury_rec/tracks-v1a1/mono.m3u8
@@ -621,6 +621,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ck1-ua.png" tvg-id="ck1-ua" tvg-country="UA", СК1
 https://cdn10.live-tv.cloud/sk1zt/sk1zt-abr-lq/playlist.m3u8
+
 
 
 
