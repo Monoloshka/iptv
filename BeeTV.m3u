@@ -397,7 +397,7 @@ https://ucdn.beetv.kz/bpk-tv/000008135/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008136/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="5190" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/terra-ru.png" tvg-id="terra-ru", Terra
 https://ucdn.beetv.kz/bpk-tv/000008142/tve/index.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live.png" tvg-id="q-live" tvg-country="KZ", Q Live
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live.png" tvg-id="q-live" tvg-id="q-live3-kz", Q Live 3
 https://ucdn.beetv.kz/bpk-tv/000008445/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mirovoe-kino-kz.png" tvg-id="mirovoe-kino-kz" tvg-country="KZ", Мировое кино
 https://ucdn.beetv.kz/bpk-tv/000008488/tve/index.m3u8
@@ -413,11 +413,11 @@ https://ucdn.beetv.kz/bpk-tv/000008551/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008614/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/nowy-igrowoj.png" tvg-id="nowy-igrowoj", Новый игровой канал
 https://ucdn.beetv.kz/bpk-tv/000008615/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-1.png" tvg-country="KZ", Q Live 1
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-1.png" tvg-id="q-live1-kz", Q Live 1
 https://ucdn.beetv.kz/bpk-tv/000008725/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-2.png" tvg-country="KZ", Q Live 2
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-2.png" tvg-id="q-live2-kz", Q Live 2
 https://ucdn.beetv.kz/bpk-tv/000008726/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-country="KZ", Q Live 4
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-id="q-live4-kz", Q Live 4
 https://ucdn.beetv.kz/bpk-tv/000008727/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sport-plus-kz.png" tvg-id="sport-plus-kz" tvg-country="KZ", Sport+
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
