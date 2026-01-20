@@ -159,7 +159,7 @@ https://ucdn.beetv.kz/bpk-tv/000000870/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000941/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/5kanal-karaganda.png" tvg-id="5kanal-karaganda" tvg-country="KZ", 5 канал (региональный)
 https://ucdn.beetv.kz/bpk-tv/000000950/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/history-ru.png" tvg-id="history-ru", History
+#EXTINF:0 type="stream" channelId="1455" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/history-ru.png" tvg-id="history", History
 https://ucdn.beetv.kz/bpk-tv/000001000/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="1476" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/1hd.png" tvg-id="1hd", 1HD Music Television
 https://ucdn.beetv.kz/bpk-tv/000001020/tve/index.m3u8
