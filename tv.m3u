@@ -103,7 +103,7 @@ https://stream.almaz-media.tv/hls/240.m3u8
 https://stream.almaz-media.tv/hls/144.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/arxyz24.png" tvg-id="arxyz24" tvg-country="RU", Архыз 24
 https://arhiz24.mediacdn.ru/sr1/arhis24/playlist_sdlow.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png" tvg-id="gnc", GNC
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gnc.png", GNC
 https://live-gnctv.cdnvideo.ru/gnctv_hls_tcode/gnctv_tc1/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/7-tv.png" tvg-id="7-tv" tvg-country="RU", 7 TV
 https://v4.proofix.ru/7tv-live/index.m3u8
@@ -119,7 +119,7 @@ https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8
 https://live3.mediacdn.ru/sr1/tro/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/volga.png" tvg-id="volga", Волга
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/playlist.m3u8
-#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/volga-24.png" tvg-id="volga-24", Волга 24
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/volga-24.png" tvg-id="vremia-n", Волга 24
 https://live-nntv2.cdnvideo.ru/nntv2/vremyan/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/rgvk-dagestan.png" tvg-id="rgvk-dagestan", РГВК Дагестан
 https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
@@ -171,6 +171,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ck1-ua.png" tvg-id="ck1-ua" tvg-country="UA", СК1
 https://cdn10.live-tv.cloud/sk1zt/sk1zt-abr-lq/playlist.m3u8
+
 
 
 
