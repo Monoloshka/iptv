@@ -1,41 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-<channel id="12-omsk">
-<display-name>12 канал Омск</display-name>
-</channel>
-<channel id="1hd">
-<display-name>1HD Music Television</display-name>
-</channel>
-<channel id="24news-ua">
-<display-name>Канал 24 HD</display-name>
-</channel>
-<channel id="31-kanal-kz">
-<display-name>31 канал</display-name>
-</channel>
-<channel id="360-news">
-<display-name>360° Новости</display-name>
-</channel>
-<channel id="5kanal-karaganda">
-<display-name>5 канал (региональный)</display-name>
-</channel>
-<channel id="7kanal-kz">
-<display-name>Седьмой канал</display-name>
-</channel>
-<channel id="8kanal-eu">
-<display-name>8 канал</display-name>
-</channel>
-<channel id="9kanal-israel">
-<display-name>9 канал (Израиль)</display-name>
-</channel>
-<channel id="abaitv">
-<display-name>ABAI TV</display-name>
-</channel>
-<channel id="aifak-kz">
-<display-name>Айғақ</display-name>
-</channel>
-<channel id="aist">
-<display-name>Аист</display-name>
-</channel>
 <channel id="alautv">
 <display-name>Алау ТВ</display-name>
 </channel>
