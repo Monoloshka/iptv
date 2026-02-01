@@ -1,129 +1,594 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv>
-<channel id="alautv">
-<display-name>Алау ТВ</display-name>
+<channel id="beetv-vd">
+<display-name>BeeTV Вещдок</display-name>
 </channel>
-<programme start="20260131204500 +0300" stop="20260131212000 +0300" channel="alautv" >
-<title>х/ф Құрақ көрпе</title>
+<programme start="20260126001800 +0300" stop="20260126011500 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Результат операции. Серия 1. Скляренко</title>
 </programme>
-<programme start="20260131212000 +0300" stop="20260201002000 +0300" channel="alautv" >
-<title>т/с Телехикаясы</title>
+<programme start="20260126011500 +0300" stop="20260126021000 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Результат операции. Серия 2. Скляренко</title>
 </programme>
-<programme start="20260201002000 +0300" stop="20260201010000 +0300" channel="alautv" >
-<title>Беу, Туған жер!</title>
+<programme start="20260126021000 +0300" stop="20260126030400 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Выбраться из ямы. Серия 1. Ушаков</title>
 </programme>
-<programme start="20260201010000 +0300" stop="20260201030000 +0300" channel="alautv" >
-<title>Өмір ағымы</title>
+<programme start="20260126030400 +0300" stop="20260126035800 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Выбраться из ямы. Серия 2. Ушаков</title>
 </programme>
-<programme start="20260201030000 +0300" stop="20260201040000 +0300" channel="alautv" >
-<title>Ұлы дала тұлғалары</title>
+<programme start="20260126035800 +0300" stop="20260126045500 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Каменный сыр. Серия 1. Рубинкова</title>
 </programme>
-<programme start="20260201040000 +0300" stop="20260201060000 +0300" channel="alautv" >
-<title>Өмір ағымы</title>
+<programme start="20260126045500 +0300" stop="20260126055200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Каменный сыр. Серия 2. Рубинкова</title>
 </programme>
-<programme start="20260201060000 +0300" stop="20260201063000 +0300" channel="alautv" >
-<title>Қазақстандағы ішкі туризм</title>
+<programme start="20260126055200 +0300" stop="20260126064900 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Бюро добрых услуг. Серия 1. Сытникова</title>
 </programme>
-<programme start="20260201063000 +0300" stop="20260201070000 +0300" channel="alautv" >
-<title>д/с Қазақ даласының құпиялары</title>
+<programme start="20260126064900 +0300" stop="20260126074600 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Бюро добрых услуг. Серия 2. Сытникова</title>
 </programme>
-<programme start="20260201070000 +0300" stop="20260201080000 +0300" channel="alautv" >
-<title>Белая дочь степей</title>
+<programme start="20260126074600 +0300" stop="20260126084200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Охота на ведьму. Серия 1. Гнатюк</title>
 </programme>
-<programme start="20260201080000 +0300" stop="20260201082000 +0300" channel="alautv" >
-<title>ErkeLife</title>
+<programme start="20260126084200 +0300" stop="20260126094000 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Охота на ведьму. Серия 2. Гнатюк</title>
 </programme>
-<programme start="20260201082000 +0300" stop="20260201085000 +0300" channel="alautv" >
-<title>Менің мамандығым</title>
+<programme start="20260126094000 +0300" stop="20260126103600 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Конфетное дерево. Серия 1. Гаврилюк</title>
 </programme>
-<programme start="20260201085000 +0300" stop="20260201090000 +0300" channel="alautv" >
-<title>Ұлтық мұра</title>
+<programme start="20260126103600 +0300" stop="20260126113200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Конфетное дерево. Серия 2. Гаврилюк</title>
 </programme>
-<programme start="20260201090000 +0300" stop="20260201100000 +0300" channel="alautv" >
-<title>т/с Телехикаясы</title>
+<programme start="20260126113200 +0300" stop="20260126122700 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Гадюка подколодная. Серия 1. Лепетун</title>
 </programme>
-<programme start="20260201100000 +0300" stop="20260201104500 +0300" channel="alautv" >
-<title>Точка зрения</title>
+<programme start="20260126122700 +0300" stop="20260126132500 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Гадюка подколодная. Серия 2. Лепетун</title>
 </programme>
-<programme start="20260201104500 +0300" stop="20260201110000 +0300" channel="alautv" >
-<title>Stop Трафик</title>
+<programme start="20260126132500 +0300" stop="20260126142200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Категорическое нет. Серия 1. Копиевский</title>
 </programme>
-<programme start="20260201110000 +0300" stop="20260201130000 +0300" channel="alautv" >
-<title>т/с Телехикая</title>
+<programme start="20260126142200 +0300" stop="20260126151900 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Категорическое нет. Серия 2. Копиевский</title>
 </programme>
-<programme start="20260201130000 +0300" stop="20260201160000 +0300" channel="alautv" >
-<title>т/с Телехикаясы</title>
+<programme start="20260126151900 +0300" stop="20260126161700 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Спасательная археология. Чугай</title>
 </programme>
-<programme start="20260201160000 +0300" stop="20260201170000 +0300" channel="alautv" >
-<title>т/с Телехикаясы</title>
+<programme start="20260126161700 +0300" stop="20260126171400 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Чьих рук дело. Чугай</title>
 </programme>
-<programme start="20260201170000 +0300" stop="20260201173000 +0300" channel="alautv" >
-<title>РТН Подробности</title>
+<programme start="20260126171400 +0300" stop="20260126181200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Не судите строго. Чугай</title>
 </programme>
-<programme start="20260201173000 +0300" stop="20260201180000 +0300" channel="alautv" >
-<title>д/с Герои рядом</title>
+<programme start="20260126181200 +0300" stop="20260126190900 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Комната страха. Чугай</title>
 </programme>
-<programme start="20260201180000 +0300" stop="20260201200000 +0300" channel="alautv" >
-<title>т/с Телехикая</title>
+<programme start="20260126190900 +0300" stop="20260126200200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Сектант. Серия 1. Градский</title>
 </programme>
-<programme start="20260201200000 +0300" stop="20260201204500 +0300" channel="alautv" >
-<title>Беу, Туған жер!</title>
+<programme start="20260126200200 +0300" stop="20260126205400 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Сектант. Серия 2. Градский</title>
 </programme>
-<programme start="20260201204500 +0300" stop="20260201212000 +0300" channel="alautv" >
-<title>х/ф Құрақ көрпе</title>
+<programme start="20260126205400 +0300" stop="20260126215000 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Благими намерениями. Серия 1. Журавель</title>
 </programme>
-<programme start="20260201212000 +0300" stop="20260202002000 +0300" channel="alautv" >
-<title>т/с Телехикаясы</title>
+<programme start="20260126215000 +0300" stop="20260126224500 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Благими намерениями. Серия 2. Журавель</title>
 </programme>
-<programme start="20260202002000 +0300" stop="20260202010000 +0300" channel="alautv" >
-<title>Беу, Туған жер!</title>
+<programme start="20260126224500 +0300" stop="20260126234000 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. С огоньком. Серия 1. Журба</title>
 </programme>
-<programme start="20260202010000 +0300" stop="20260202030000 +0300" channel="alautv" >
-<title>Өмір ағымы</title>
+<programme start="20260126234000 +0300" stop="20260127003800 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. С огоньком. Серия 2. Журба</title>
 </programme>
-<programme start="20260202030000 +0300" stop="20260202040000 +0300" channel="alautv" >
-<title>Ұлы дала тұлғалары</title>
+<programme start="20260127003800 +0300" stop="20260127012900 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Рыбка золотая. Серия 1. Бурда</title>
 </programme>
-<programme start="20260202040000 +0300" stop="20260202043000 +0300" channel="alautv" >
-<title>д/с Қазақ даласының құпиялары</title>
+<programme start="20260127012900 +0300" stop="20260127022100 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Рыбка золотая. Серия 2. Бурда</title>
 </programme>
-<programme start="20260202043000 +0300" stop="20260202050000 +0300" channel="alautv" >
-<title>Қазақстандағы ішкі туризм</title>
+<programme start="20260127022100 +0300" stop="20260127031800 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Путь мужчины. Серия 1. Градский</title>
 </programme>
-<programme start="20260202050000 +0300" stop="20260202070000 +0300" channel="alautv" >
-<title>Разбудильник</title>
+<programme start="20260127031800 +0300" stop="20260127041500 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Путь мужчины. Серия 2. Градский</title>
 </programme>
-<programme start="20260202070000 +0300" stop="20260202072500 +0300" channel="alautv" >
-<title>РТН Подробности</title>
+<programme start="20260127041500 +0300" stop="20260127051300 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Тихий ужас. Серия 1. Гаврилюк</title>
 </programme>
-<programme start="20260202072500 +0300" stop="20260202074500 +0300" channel="alautv" >
-<title>Менің мамандығым</title>
+<programme start="20260127051300 +0300" stop="20260127061100 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Тихий ужас. Серия 2. Гаврилюк</title>
 </programme>
-<programme start="20260202074500 +0300" stop="20260202080000 +0300" channel="alautv" >
-<title>Ұлтық мұра</title>
+<programme start="20260127061100 +0300" stop="20260127070200 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Камень на сердце. Серия 1. Титова</title>
 </programme>
-<programme start="20260202080000 +0300" stop="20260202083000 +0300" channel="alautv" >
-<title>Новости</title>
+<programme start="20260127070200 +0300" stop="20260127075700 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Камень на сердце. Серия 2. Титова</title>
 </programme>
-<programme start="20260202083000 +0300" stop="20260202090000 +0300" channel="alautv" >
-<title>Көкейтесті сұхбат</title>
+<programme start="20260127075700 +0300" stop="20260127085400 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Полет шмеля. Серия 1. Гнатюк</title>
 </programme>
-<programme start="20260202090000 +0300" stop="20260202110000 +0300" channel="alautv" >
-<title>Өмір ағымы</title>
+<programme start="20260127085400 +0300" stop="20260127095100 +0300" channel="beetv-vd" >
+<title>Вещдок. Большое дело. Полет шмеля. Серия 2. Гнатюк</title>
 </programme>
-<programme start="20260202110000 +0300" stop="20260202113000 +0300" channel="alautv" >
-<title>д/с Ұлы даланың көне шаһаралары</title>
+<programme start="20260127095100 +0300" stop="20260127110300 +0300" channel="beetv-vd" >
+<title>Вещдок. Новый год</title>
 </programme>
-<programme start="20260202113000 +0300" stop="20260202120000 +0300" channel="alautv" >
-<title>Спорт – басты назарда</title>
+<programme start="20260127110300 +0300" stop="20260127120000 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Колумбийский галстук. Артюх</title>
 </programme>
-<programme start="20260202120000 +0300" stop="20260202130000 +0300" channel="alautv" >
-<title>т/с Телехикая</title>
+<programme start="20260127120000 +0300" stop="20260127125900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Афганский мотив. Артюх</title>
 </programme>
-<programme start="20260202130000 +0300" stop="20260202140000 +0300" channel="alautv" >
-<title>Cәтті күн</title>
+<programme start="20260127125900 +0300" stop="20260127135700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. На перспективу. Артюх</title>
 </programme>
-<programme start="20260202140000 +0300" stop="20260202140000 +0300" channel="alautv" >
-<title>Жүректен жүрекке</title>
+<programme start="20260127135700 +0300" stop="20260127145600 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Хлеб стыда. Артюх</title>
+</programme>
+<programme start="20260127145600 +0300" stop="20260127155300 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Историческая тайна. Чугай</title>
+</programme>
+<programme start="20260127155300 +0300" stop="20260127165100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Чужой запах. Чугай</title>
+</programme>
+<programme start="20260127165100 +0300" stop="20260127174700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Опасные гастроли. Чугай</title>
+</programme>
+<programme start="20260127174700 +0300" stop="20260127184400 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Психотерапия. Чугай</title>
+</programme>
+<programme start="20260127184400 +0300" stop="20260127194200 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Верная находка. Дмитрук</title>
+</programme>
+<programme start="20260127194200 +0300" stop="20260127204000 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Казаки-разбойники. Дмитрук</title>
+</programme>
+<programme start="20260127204000 +0300" stop="20260127213800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Партия крысы. Дмитрук</title>
+</programme>
+<programme start="20260127213800 +0300" stop="20260127223700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. К стенке. Дмитрук</title>
+</programme>
+<programme start="20260127223700 +0300" stop="20260127233500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. На дне ямы. Головин</title>
+</programme>
+<programme start="20260127233500 +0300" stop="20260128003400 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Кукольная голова. Головин</title>
+</programme>
+<programme start="20260128003400 +0300" stop="20260128013200 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Лихорадочная спешка. Головин</title>
+</programme>
+<programme start="20260128013200 +0300" stop="20260128023100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Снявши голову. Головин</title>
+</programme>
+<programme start="20260128023100 +0300" stop="20260128032900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Пустынный колодец. Кожан</title>
+</programme>
+<programme start="20260128032900 +0300" stop="20260128042800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Дружба дружбой. Кожан</title>
+</programme>
+<programme start="20260128042800 +0300" stop="20260128052800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Всей семьей. Кожан</title>
+</programme>
+<programme start="20260128052800 +0300" stop="20260128062500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. По профилю. Кожан</title>
+</programme>
+<programme start="20260128062500 +0300" stop="20260128071800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Нечетное число. Лыкова</title>
+</programme>
+<programme start="20260128071800 +0300" stop="20260128081600 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Выбить из седла. Лыкова</title>
+</programme>
+<programme start="20260128081600 +0300" stop="20260128091200 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Чужак. Лыкова</title>
+</programme>
+<programme start="20260128091200 +0300" stop="20260128101100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Ивасик-телесик. Лыкова</title>
+</programme>
+<programme start="20260128101100 +0300" stop="20260128110900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Страшный сон. Никишов</title>
+</programme>
+<programme start="20260128110900 +0300" stop="20260128120700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Тише воды. Никишов</title>
+</programme>
+<programme start="20260128120700 +0300" stop="20260128130200 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Горький ликер. Никишов</title>
+</programme>
+<programme start="20260128130200 +0300" stop="20260128135900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. На хвосте. Никишов</title>
+</programme>
+<programme start="20260128135900 +0300" stop="20260128145500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Золотое платье. Никишов</title>
+</programme>
+<programme start="20260128145500 +0300" stop="20260128155000 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Возвращение монстра. Никишов</title>
+</programme>
+<programme start="20260128155000 +0300" stop="20260128164900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Приключение пистолета. Никишов</title>
+</programme>
+<programme start="20260128164900 +0300" stop="20260128174800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Узелок на смерть. Никишов</title>
+</programme>
+<programme start="20260128174800 +0300" stop="20260128184500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Без будущего. Туманов</title>
+</programme>
+<programme start="20260128184500 +0300" stop="20260128194300 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. В предвкушении. Туманов</title>
+</programme>
+<programme start="20260128194300 +0300" stop="20260128204100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Учительская любовь. Туманов</title>
+</programme>
+<programme start="20260128204100 +0300" stop="20260128213900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Точка пересечения. Туманов</title>
+</programme>
+<programme start="20260128213900 +0300" stop="20260128223700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Прокаженная. Титова</title>
+</programme>
+<programme start="20260128223700 +0300" stop="20260128233700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Крысолов. Титова</title>
+</programme>
+<programme start="20260128233700 +0300" stop="20260129003700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. В свою очередь. Титова</title>
+</programme>
+<programme start="20260129003700 +0300" stop="20260129013400 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Обуза. Титова</title>
+</programme>
+<programme start="20260129013400 +0300" stop="20260129023000 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Схватка. Ушаков</title>
+</programme>
+<programme start="20260129023000 +0300" stop="20260129032600 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Муза из лазурного. Ушаков</title>
+</programme>
+<programme start="20260129032600 +0300" stop="20260129042200 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Папина девочка. Ушаков</title>
+</programme>
+<programme start="20260129042200 +0300" stop="20260129051800 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Святая. Ушаков</title>
+</programme>
+<programme start="20260129051800 +0300" stop="20260129061600 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. На чужого дядю. Запашный</title>
+</programme>
+<programme start="20260129061600 +0300" stop="20260129071100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Не в затяжку. Запашный</title>
+</programme>
+<programme start="20260129071100 +0300" stop="20260129080900 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Военный урок. Запашный</title>
+</programme>
+<programme start="20260129080900 +0300" stop="20260129090700 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Перевоплощение. Запашный</title>
+</programme>
+<programme start="20260129090700 +0300" stop="20260129100500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Все в прошлом. Журавель</title>
+</programme>
+<programme start="20260129100500 +0300" stop="20260129110500 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Чистый алмаз. Журавель</title>
+</programme>
+<programme start="20260129110500 +0300" stop="20260129120300 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Простая процедура. Журавель</title>
+</programme>
+<programme start="20260129120300 +0300" stop="20260129130100 +0300" channel="beetv-vd" >
+<title>Вещдок. Личное дело. Обратная сторона. Журавель</title>
+</programme>
+<programme start="20260129130100 +0300" stop="20260129135500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Овертайм</title>
+</programme>
+<programme start="20260129135500 +0300" stop="20260129145200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Бриллиантовый дым</title>
+</programme>
+<programme start="20260129145200 +0300" stop="20260129154700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. В следующей жизни</title>
+</programme>
+<programme start="20260129154700 +0300" stop="20260129164400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Ампула злодея</title>
+</programme>
+<programme start="20260129164400 +0300" stop="20260129174000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Занавеска на память</title>
+</programme>
+<programme start="20260129174000 +0300" stop="20260129183700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Велесова книга</title>
+</programme>
+<programme start="20260129183700 +0300" stop="20260129193200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Старая рана</title>
+</programme>
+<programme start="20260129193200 +0300" stop="20260129202600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Последний автобус</title>
+</programme>
+<programme start="20260129202600 +0300" stop="20260129212300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Плата за роль</title>
+</programme>
+<programme start="20260129212300 +0300" stop="20260129221800 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Рука гения</title>
+</programme>
+<programme start="20260129221800 +0300" stop="20260129231300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Предательское спокойствие</title>
+</programme>
+<programme start="20260129231300 +0300" stop="20260130000900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Лишний человек</title>
+</programme>
+<programme start="20260130000900 +0300" stop="20260130010600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Интурист</title>
+</programme>
+<programme start="20260130010600 +0300" stop="20260130020300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Пиковая дама</title>
+</programme>
+<programme start="20260130020300 +0300" stop="20260130025900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Герой литературы</title>
+</programme>
+<programme start="20260130025900 +0300" stop="20260130035300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Прима Вера</title>
+</programme>
+<programme start="20260130035300 +0300" stop="20260130044700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Последний урок</title>
+</programme>
+<programme start="20260130044700 +0300" stop="20260130054300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Без обид</title>
+</programme>
+<programme start="20260130054300 +0300" stop="20260130063900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. В пух и прах</title>
+</programme>
+<programme start="20260130063900 +0300" stop="20260130073500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Крольчиха</title>
+</programme>
+<programme start="20260130073500 +0300" stop="20260130082700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Последний штрих</title>
+</programme>
+<programme start="20260130082700 +0300" stop="20260130092000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Всякий хлам</title>
+</programme>
+<programme start="20260130092000 +0300" stop="20260130101500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Базарный день</title>
+</programme>
+<programme start="20260130101500 +0300" stop="20260130111100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Близкие люди. Ложная надежда</title>
+</programme>
+<programme start="20260130111100 +0300" stop="20260130120700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Близкие люди. Больше жизни</title>
+</programme>
+<programme start="20260130120700 +0300" stop="20260130130500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Близкие люди. Добрые услуги</title>
+</programme>
+<programme start="20260130130500 +0300" stop="20260130140200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Близкие люди. Неземная</title>
+</programme>
+<programme start="20260130140200 +0300" stop="20260130145600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Домик у моря</title>
+</programme>
+<programme start="20260130145600 +0300" stop="20260130154900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Редкий узор</title>
+</programme>
+<programme start="20260130154900 +0300" stop="20260130164600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. И вашим и нашим</title>
+</programme>
+<programme start="20260130164600 +0300" stop="20260130174200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Билет на тот свет</title>
+</programme>
+<programme start="20260130174200 +0300" stop="20260130183900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Взгляд в будущее</title>
+</programme>
+<programme start="20260130183900 +0300" stop="20260130193300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Живые деньги</title>
+</programme>
+<programme start="20260130193300 +0300" stop="20260130202700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Лед и пламя</title>
+</programme>
+<programme start="20260130202700 +0300" stop="20260130212300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Ноктюрн</title>
+</programme>
+<programme start="20260130212300 +0300" stop="20260130222000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Шапочный разбор</title>
+</programme>
+<programme start="20260130222000 +0300" stop="20260130231500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Перелетная птица</title>
+</programme>
+<programme start="20260130231500 +0300" stop="20260131000900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Неуемный аппетит</title>
+</programme>
+<programme start="20260131000900 +0300" stop="20260131010400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое богатство. Отказной материал</title>
+</programme>
+<programme start="20260131010400 +0300" stop="20260131015900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое добро. Цыганский нож</title>
+</programme>
+<programme start="20260131015900 +0300" stop="20260131025500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое добро. Золотая чешуя</title>
+</programme>
+<programme start="20260131025500 +0300" stop="20260131035100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое добро. Как в зеркале</title>
+</programme>
+<programme start="20260131035100 +0300" stop="20260131044700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Чужое добро. Роза ветров</title>
+</programme>
+<programme start="20260131044700 +0300" stop="20260131054200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Я иду искать</title>
+</programme>
+<programme start="20260131054200 +0300" stop="20260131063700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Нехороший дом</title>
+</programme>
+<programme start="20260131063700 +0300" stop="20260131072900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Ещё одна жизнь</title>
+</programme>
+<programme start="20260131072900 +0300" stop="20260131082500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Восемь тактов</title>
+</programme>
+<programme start="20260131082500 +0300" stop="20260131092200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Половина дела</title>
+</programme>
+<programme start="20260131092200 +0300" stop="20260131101900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Истребитель</title>
+</programme>
+<programme start="20260131101900 +0300" stop="20260131111300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Суп с котом</title>
+</programme>
+<programme start="20260131111300 +0300" stop="20260131120800 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Затертая пластинка</title>
+</programme>
+<programme start="20260131120800 +0300" stop="20260131130200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Выставка достижений</title>
+</programme>
+<programme start="20260131130200 +0300" stop="20260131135400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Глухие стены</title>
+</programme>
+<programme start="20260131135400 +0300" stop="20260131145000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Послевкусие</title>
+</programme>
+<programme start="20260131145000 +0300" stop="20260131154300 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Эхо войны. Жатва</title>
+</programme>
+<programme start="20260131154300 +0300" stop="20260131163900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Концы в воду. Лечь на дно</title>
+</programme>
+<programme start="20260131163900 +0300" stop="20260131173500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Концы в воду. Сыновья забота</title>
+</programme>
+<programme start="20260131173500 +0300" stop="20260131183000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Концы в воду. Пишите письма</title>
+</programme>
+<programme start="20260131183000 +0300" stop="20260131192700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Концы в воду. След босой ноги</title>
+</programme>
+<programme start="20260131192700 +0300" stop="20260131202200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Око за око. Заслуженная смерть</title>
+</programme>
+<programme start="20260131202200 +0300" stop="20260131211800 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Око за око. Смерть вредителям</title>
+</programme>
+<programme start="20260131211800 +0300" stop="20260131221400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Око за око. Инсулин</title>
+</programme>
+<programme start="20260131221400 +0300" stop="20260131230700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Око за око. Грязнуля</title>
+</programme>
+<programme start="20260131230700 +0300" stop="20260201000400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Петля для овчарки</title>
+</programme>
+<programme start="20260201000400 +0300" stop="20260201010000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Безденежный обмен</title>
+</programme>
+<programme start="20260201010000 +0300" stop="20260201015600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Хромой</title>
+</programme>
+<programme start="20260201015600 +0300" stop="20260201025200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Время – песок</title>
+</programme>
+<programme start="20260201025200 +0300" stop="20260201034600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Семейная хроника</title>
+</programme>
+<programme start="20260201034600 +0300" stop="20260201044200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Фотографическая память</title>
+</programme>
+<programme start="20260201044200 +0300" stop="20260201053700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Слова на песке</title>
+</programme>
+<programme start="20260201053700 +0300" stop="20260201063100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Американка</title>
+</programme>
+<programme start="20260201063100 +0300" stop="20260201072700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Ценой жизни</title>
+</programme>
+<programme start="20260201072700 +0300" stop="20260201082400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Железный крест</title>
+</programme>
+<programme start="20260201082400 +0300" stop="20260201091800 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Отцовский грех</title>
+</programme>
+<programme start="20260201091800 +0300" stop="20260201101400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Родина-мать</title>
+</programme>
+<programme start="20260201101400 +0300" stop="20260201111100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Крестоцвет</title>
+</programme>
+<programme start="20260201111100 +0300" stop="20260201120500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. За родину</title>
+</programme>
+<programme start="20260201120500 +0300" stop="20260201130000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Порванный баян</title>
+</programme>
+<programme start="20260201130000 +0300" stop="20260201135700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. По ту линию фронта. Высший суд</title>
+</programme>
+<programme start="20260201135700 +0300" stop="20260201145200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Под чужим именем. Невидимка</title>
+</programme>
+<programme start="20260201145200 +0300" stop="20260201154900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Под чужим именем. Нечего терять</title>
+</programme>
+<programme start="20260201154900 +0300" stop="20260201164500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Под чужим именем. В чужих туфлях</title>
+</programme>
+<programme start="20260201164500 +0300" stop="20260201174100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Под чужим именем. Орден мёртвых поэтов</title>
+</programme>
+<programme start="20260201174100 +0300" stop="20260201183700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Из чувства благодарности</title>
+</programme>
+<programme start="20260201183700 +0300" stop="20260201193000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Нэпман</title>
+</programme>
+<programme start="20260201193000 +0300" stop="20260201202600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Следственный эксперимент</title>
+</programme>
+<programme start="20260201202600 +0300" stop="20260201212100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. На луну</title>
+</programme>
+<programme start="20260201212100 +0300" stop="20260201221400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Мертвая петля</title>
+</programme>
+<programme start="20260201221400 +0300" stop="20260201231000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Названый брат</title>
+</programme>
+<programme start="20260201231000 +0300" stop="20260202000500 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Птичий разговор</title>
+</programme>
+<programme start="20260202000500 +0300" stop="20260202010200 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Взрывные чувства</title>
+</programme>
+<programme start="20260202010200 +0300" stop="20260202015600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Бандитская жена</title>
+</programme>
+<programme start="20260202015600 +0300" stop="20260202025100 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Жилетка для слёз</title>
+</programme>
+<programme start="20260202025100 +0300" stop="20260202034400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Райкомовский ловелас</title>
+</programme>
+<programme start="20260202034400 +0300" stop="20260202044000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Преступник поневоле. Печать прошлого</title>
+</programme>
+<programme start="20260202044000 +0300" stop="20260202053700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Привет из прошлого. По головам</title>
+</programme>
+<programme start="20260202053700 +0300" stop="20260202063000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Привет из прошлого. Плохая кровь</title>
+</programme>
+<programme start="20260202063000 +0300" stop="20260202072700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Уравнение с двумя неизвестными</title>
+</programme>
+<programme start="20260202072700 +0300" stop="20260202082400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Привет из прошлого. Опасное место</title>
+</programme>
+<programme start="20260202082400 +0300" stop="20260202091900 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Птица счастья</title>
+</programme>
+<programme start="20260202091900 +0300" stop="20260202101600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Ненужные люди</title>
+</programme>
+<programme start="20260202101600 +0300" stop="20260202111000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Перепад температур</title>
+</programme>
+<programme start="20260202111000 +0300" stop="20260202120600 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Той же монетой</title>
+</programme>
+<programme start="20260202120600 +0300" stop="20260202130000 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Мешок добра</title>
+</programme>
+<programme start="20260202130000 +0300" stop="20260202135400 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. С доставкой на дом</title>
+</programme>
+<programme start="20260202135400 +0300" stop="20260202144700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Другие цели</title>
+</programme>
+<programme start="20260202144700 +0300" stop="20260202144700 +0300" channel="beetv-vd" >
+<title>Вещдок. Особый случай. Роковая страсть. Дело-труба</title>
 </programme>
 </tv>
