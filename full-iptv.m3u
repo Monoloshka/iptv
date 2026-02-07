@@ -387,6 +387,8 @@ https://ucdn.beetv.kz/bpk-tv/000007818/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000007833/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/liova.png" tvg-id="liova" tvg-country="RU" group-title="Детские", Лёва
 https://ucdn.beetv.kz/bpk-tv/000008003/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sreda.png" tvg-id="sreda", Среда
+https://ucdn.beetv.kz/bpk-tv/000008039/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="5216" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/big-planet.png" tvg-id="big-planet", Big Planet
 https://ucdn.beetv.kz/bpk-tv/000008052/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/womens-magazine.png" tvg-id="womens-magazine", Women's Magazine
@@ -621,6 +623,7 @@ https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
 https://serv25.vintera.tv/1pnk/prnk/playlist.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ck1-ua.png", СК1
 https://cdn10.live-tv.cloud/sk1zt/sk1zt-abr-lq/playlist.m3u8
+
 
 
 
