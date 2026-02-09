@@ -81,8 +81,6 @@ https://ucdn.beetv.kz/bpk-tv/000000239/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000247/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="167" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/zoopark.png" tvg-id="zoopark", ZOOпарк
 https://ucdn.beetv.kz/bpk-tv/000000260/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/vh1-european.png", MTV 00s
-https://ucdn.beetv.kz/bpk-tv/000000264/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/lubimoe-kino.png" tvg-id="lubimoe-kino", Любимое кино
 https://ucdn.beetv.kz/bpk-tv/000000283/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="183" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/gulli-girl.png" tvg-id="gulli-girl", Gulli girl
@@ -109,8 +107,6 @@ https://ucdn.beetv.kz/bpk-tv/000000418/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000000428/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/fashion-one.png" tvg-id="fashion-one", Fashion & Lifestyle
 https://ucdn.beetv.kz/bpk-tv/000000439/tve/index.m3u8
-#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/mtv-live-hd.png", MTV Live
-https://ucdn.beetv.kz/bpk-tv/000000447/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="322" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/nick-jr.png" tvg-id="nick-jr", Nick Jr.
 https://ucdn.beetv.kz/bpk-tv/000000449/tve/index.m3u8
 #EXTINF:0 type="stream" catchup="shift" catchup-days="6" catchup-source="https://ucdn.beetv.kz/bpk-tv/000000452/tve/index.m3u8?begin=${start}&end=${timestamp}" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/paramount-comedy.png", Comedy Central
