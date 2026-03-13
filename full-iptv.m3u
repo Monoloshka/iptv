@@ -417,6 +417,10 @@ https://ucdn.beetv.kz/bpk-tv/000008725/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000008726/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/q-live-4.png" tvg-id="q-live4-kz" group-title="Спортивные", Q Live 4
 https://ucdn.beetv.kz/bpk-tv/000008727/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/live-5.png", Live 5
+https://ucdn.beetv.kz/bpk-tv/000008728/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/live-6.png", Live 6
+https://ucdn.beetv.kz/bpk-tv/000008729/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/sport-plus-kz.png" tvg-id="sport-plus-kz" tvg-country="KZ" group-title="Спортивные", Sport+
 https://ucdn.beetv.kz/bpk-tv/000008731/tve/index.m3u8
 #EXTINF:0 type="stream" channelId="394" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/ntk-kz.png"tvg-id="ntk-kz" tvg-country="KZ", НТК
@@ -449,6 +453,8 @@ https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-country="KZ" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/beetv-movies.png" tvg-id="beetv-movies", BeeTV Movies
 https://ucdn.beetv.kz/bpk-tv/000009430/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/curiosity-stream.png" tvg-id="curiosity-stream", Curiosity HD
+https://ucdn.beetv.kz/bpk-tv/000009538/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/redbull-tv.png" tvg-country="AT" group-title="Спортивные", Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/tv-pro.png", TV PRO
