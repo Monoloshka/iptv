@@ -453,6 +453,8 @@ https://ucdn.beetv.kz/bpk-tv/000009428/tve/index.m3u8
 https://ucdn.beetv.kz/bpk-tv/000009429/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-country="KZ" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/beetv-movies.png" tvg-id="beetv-movies", BeeTV Movies
 https://ucdn.beetv.kz/bpk-tv/000009430/tve/index.m3u8
+#EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/beetv-sport-kz.png" tvg-id="beetv-sport-kz", BeeTV Sport
+https://ucdn.beetv.kz/bpk-tv/000009431/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/curiosity-stream.png" tvg-id="curiosity-stream", Curiosity HD
 https://ucdn.beetv.kz/bpk-tv/000009538/tve/index.m3u8
 #EXTINF:0 type="stream" tvg-logo="https://raw.githubusercontent.com/Monoloshka/iptv/refs/heads/main/logo/redbull-tv.png" tvg-country="AT", Red Bull TV
