@@ -1,4 +1,4 @@
-Наблюдаем блокировки Github в Казахстане что может вызвать недоступность плейлиста с телеканалами.
+Наблюдаем блокировки Github в Казахстане что может вызвать недоступность плейлиста с телеканалами но можно решить проблему через VPN/proxy/Zapret/ByebyeDPI.
 
 https://tengrinews.kz/curious/github-cherez-vpn-kazahstantsyi-jaluyutsya-problemyi-597680/
 
