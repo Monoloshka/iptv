@@ -1,3 +1,6 @@
+Наблюдаем блокировки Github в Казахстане что может вызвать недоступность плейлиста с телеканалами.
+https://tengrinews.kz/curious/github-cherez-vpn-kazahstantsyi-jaluyutsya-problemyi-597680/
+
 tv.m3u это список телеканалов которые которые не имеют отношение к BeeTV и Beeline KZ но доступны через Beeline KZ.
 
 BeeTV.m3u это список телеканалов от интернет-провайдера Beeline KZ.
