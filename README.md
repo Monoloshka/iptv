@@ -2,6 +2,8 @@
 
 https://tengrinews.kz/curious/github-cherez-vpn-kazahstantsyi-jaluyutsya-problemyi-597680/
 
+Новый репозиторий в разработке: https://gitea.com/Monoloshka/BeeTV
+
 tv.m3u это список телеканалов которые которые не имеют отношение к BeeTV и Beeline KZ но доступны через Beeline KZ.
 
 BeeTV.m3u это список телеканалов от интернет-провайдера Beeline KZ.
